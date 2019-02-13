@@ -16,7 +16,7 @@ title: Project outlines
                              alt="{{page.title}}'s profile image" height="150" width="150">
 
               <p class="card-text">{{ author.content | strip_html | truncatewords: 100}}</p>
-                <a href="{{ author.url }}" class="btn btn-dark">Read more about {{author.title}}</a>
+                <a href="{{ site.baseurl }}{{ author.url }}" class="btn btn-dark">Read more about {{author.title}}</a>
               </div>
           </div>
     </div>
