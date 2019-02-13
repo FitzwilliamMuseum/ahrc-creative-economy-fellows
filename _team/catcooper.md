@@ -1,5 +1,5 @@
 ---
-title: Abi L. Glen
+title: Dr Catriona Cooper
 twitter: ""
 image: "/images/staff/catcooper.jpg"
 institution: The Fitzwilliam Museum

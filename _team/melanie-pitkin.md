@@ -1,5 +1,5 @@
 ---
-title: Melanie Pitkin
+title: Dr Melanie Pitkin
 twitter: melaniemisr
 image: /images/staff/MPitkin.jpg
 institution: The Fitzwilliam Museum

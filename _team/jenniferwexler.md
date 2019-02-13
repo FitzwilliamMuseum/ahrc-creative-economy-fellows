@@ -1,5 +1,5 @@
 ---
-title: jennifer Wexler
+title: Dr Jennifer Wexler
 twitter: "@jwexlerbm"
 image: "/images/staff/jenniferwexler.jpeg"
 institution: The Fitzwilliam Museum
