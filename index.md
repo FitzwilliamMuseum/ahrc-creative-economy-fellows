@@ -13,7 +13,9 @@ can be developed during this project to refine engagement models for the future.
 challenge for businesses selling into the cash-strapped heritage industry is access to customers; in
 this project the Fitzwilliam will be in the unique position of being both a research partner
 and the provider of invaluable input as a potential customer/end user for heritage industry
-products. By providing a shared base within a museum and through partnership with
+products.
+
+By providing a shared base within a museum and through partnership with
 industrial collaborators, the researchers will benefit from exposure to two new contexts in which their
 research could be used. The ECRs will also be able to apply their expertise to a live challenge
 and foster cross-sectoral information sharing and awareness-raising both during this project and
@@ -22,8 +24,9 @@ Industry collaborators bring distinct services, IP and research backgrounds to t
 partnership. ThinkSee3D (TS3D) provides high-quality, research-led digital and physical 3D making
 services for heritage, education, science, art and research. They are a team of dedicated makers,
 creating and exploring the boundaries between digital and physical model making, using modern
-and traditional methods to create engaging digital and physical objects. TS3D have a long history of
-working with national, local and international museums including the British Museum and the
+and traditional methods to create engaging digital and physical objects.
+
+TS3D have a long history of working with national, local and international museums including the British Museum and the
 Victoria and Albert. Museum in a Box (MiaB) aim to put museum collections and expert
 knowledge into audiences’ hands wherever they are in the world. A Museum in a Box is a small
 acrylic or plywood Box with a Raspberry Pi and RFID technology inside. It comes with a Collection
