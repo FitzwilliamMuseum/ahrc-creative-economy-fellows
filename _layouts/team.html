@@ -45,9 +45,10 @@
                             {% endif %}
 
                             <p class="card-text">{{ page.content }}</p>
-
+                            {% if page.institution %}
                             <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution}}</span>
                             </p>
+                            {% endif %}
 
                         </div>
                     </div>
