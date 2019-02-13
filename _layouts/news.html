@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    <title>{{page.title}}</title>
+
+    {% include /structure/css.html %}
+    {% seo %}
+    {% include /structure/feeds.html %}
+</head>
+<body class="doc-body">
+
+<!-- Screen reader skip to main -->
+<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+    <div class="container">
+        <span class="doc-skip-text">Skip to main content</span>
+    </div>
+</a>
+
+{% include /structure/navigation.html %}
+
+<!-- Jumbotron -->
+<div class="jumbotron jumbotron-fluid mb-5 doc-jumbotron head">
+    <div class="container">
+        <div class="row ">
+          <div class="col-lg-12 col-xl-12 ">
+              <img src="/images/logos/rainbow.png" class="align-self-center mr-3 float-left thumb-post bg-white p-3 shadow-lg"/>
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    {% if page.url == "/news" %}
+    <div class="row">
+        <div class="col-12 mb-2 ">
+            <h1 id="doc-main-h1">Latest news</h1>
+        </div>
+    </div>
+    {% for post in site.news reversed %}
+    <div class="card col-md-12 mb-3">
+        <div class="card-body">
+            <h3>{{ post.title }}</h3>
+            {% if post.date %}
+            <p>{{ post.date | date_to_string }}</p>
+            {% endif %}
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url }}" class="btn btn-dark">Read more</a>
+        </div>
+    </div>
+    {% endfor %}
+    {% elsif page.url == '/contactus' %}
+     <div class="row">
+        <div class="col-12  mb-2 ">
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
+        {{ content }}
+    </div>
+    {% elsif page.url == '/signup' %}
+     <div class="row">
+        <div class="col-12  mb-2 ">
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
+        </div>
+    </div>
+    <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
+        {{ content }}
+    </div>
+    {% else %}
+    <div class="row">
+        <div class="col-12  mb-2 ">
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
+        </div>
+    </div>
+
+    <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
+        {{ content }}
+        {% if page.images %}
+        {% assign count = page.images.size %}
+        {% assign slides = page.images | slice:1, count %}
+        <div class="container mt-3 mb-3">
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    {% assign co = slides.size %}
+                    {% for i in (1..co) %}
+                    <li data-target="#carouselExampleIndicators" data-slide-to="{{i}}"></li>
+                    {% endfor %}
+                </ol>
+
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="/images/{{page.images[0].image}}"
+                             alt="">
+                        <div class="carousel-caption d-none d-md-block">
+                            <span class="badge badge-wine">{{page.images[0].caption}}</span>
+                        </div>
+                    </div>
+
+                    {% for image in slides %}
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/images/{{image.image}}"
+                             alt="image.caption">
+                        <div class="carousel-caption d-none d-md-block">
+                            <span class="badge badge-wine">{{image.caption}}</span>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        {% endif %}
+
+        <p>
+            {% if page.date %}
+            <span class="chip"><i class="chip-icon"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
+            {% endif %}
+            <span class="chip"><i class="chip-icon"><i
+                    class="material-icons small">category</i></i>Category: {{ page.category }}</span>
+            {% for tags in page.tags %}
+            <span class="chip"><i class="chip-icon"><i class="material-icons small">label</i></i>{{ tags }}</span>
+            {% endfor %}
+        </p>
+    </div>
+    {% endif %}
+    {% include share_buttons.html %}
+</div>
+{% include structure/footer_logos.html %}
+{% include structure/footer.html %}
+{% include structure/javascript.html %}
+{% include analytics/google_analytics.html %}
+
+</body>
+</html>

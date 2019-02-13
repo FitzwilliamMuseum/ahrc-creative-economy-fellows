@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    <title>{{page.title}}</title>
+    {% include /structure/css.html %}
+    {% seo %}
+    {% include /structure/feeds.html %}
+
+</head>
+<body class="doc-body">
+<!-- Screen reader skip to main -->
+<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+    <div class="container">
+        <span class="doc-skip-text">Skip to main content</span>
+    </div>
+</a>
+
+{% include /structure/navigation.html %}
+{% include /structure/jumbotron.html %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 mb-3">
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
+        </div>
+    </div>
+
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
+            {{ content }}
+        </div>
+    </div>
+</div>
+
+{% include structure/footer_logos.html %}
+{% include structure/footer.html %}
+{% include structure/javascript.html %}
+{% include analytics/google_analytics.html %}
+
+</body>
+</html>

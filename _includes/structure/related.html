@@ -1,0 +1,47 @@
+<div class="col-md-3 shadow-sm p-3 mb-5 bg-white rounded h-100">
+    <h3>Further reading</h3>
+    <ul>
+        {% if page.category contains "pakepu" %}
+        {% for coffin in site.pakepu %}
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% if page.category contains "nakhtefmut" %}
+        {% for coffin in site.nakhtefmut %}
+
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% if page.category contains "nespawershefyt" %}
+        {% for coffin in site.nespawershefyt %}
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% if page.category contains "senuitef" %}
+        {% for coffin in site.senuitef %}
+        <li>
+            <a href="{{ coffin.url }}">{{ coffin.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+    </ul>
+    {% if page.technical %}
+    <h3>Technical reports</h3>
+    <ul>
+        {% for file in page.technical %}
+        <li>
+            <a href="/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>
