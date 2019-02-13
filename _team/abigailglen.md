@@ -6,4 +6,4 @@ institution: The Fitzwilliam Museum
 job-title: Research Fellow - Project 3
 layout: team
 ---
-Abi is wicked
+In past lives, I have been a feminist writer, a gin distiller, a dog-walker and an entirely mediocre lounge singer; I am only ever one bad decision away from performing stand-up.
