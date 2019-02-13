@@ -10,7 +10,7 @@ layout: default
      <div class="col-md-6 mt-3">
           <div class="card h-100">
               <div class="card-body">
-              <img class="align-self-center mr-3  float-right thumb-post" src="{{author.image}}"
+              <img class="align-self-center mr-3  float-right thumb-post" src="{{ site.baseurl}}{{author.image}}"
                              alt="{{page.title}}'s profile image" height="150" width="150">
 
 
