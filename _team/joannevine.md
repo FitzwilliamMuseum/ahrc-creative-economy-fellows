@@ -1,5 +1,5 @@
 ---
-title: Abi L. Glen
+title: Dr Joanne Vine
 twitter: ""
 image: "/images/staff/VineJoanne.jpg"
 institution: The Fitzwilliam Museum
