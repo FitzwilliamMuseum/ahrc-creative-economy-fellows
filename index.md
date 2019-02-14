@@ -12,8 +12,8 @@ brings together three key actors in the heritage ecosystem:
 
 * a university
 * a museum
-* two industrial collaborators - [Museum in a Box]({{ site.baseurl }}partners/museuminabox/)
-and [ThinkSee3D]({{ site.baseurl }}partners/thinksee3d/).
+* two industrial collaborators - [Museum in a Box]({{ site.baseurl }}/partners/museuminabox/)
+and [ThinkSee3D]({{ site.baseurl }}/partners/thinksee3d/).
 
 When combined they provide three essential perspectives that will enable us to
 choose and drive forward four early career researcher (ECR) projects that will
