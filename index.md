@@ -5,9 +5,9 @@ author: Daniel Pett
 created: 2019-02-11
 ---
 
-![An image of Userhat in the Gayer Anderson gallery]({{ site.baseurl }}/images/objects/userhat.jpg){:class="img-responsive float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle" :width="250px"}
+![An image of Userhat in the Gayer Anderson gallery]({{ site.baseurl }}/images/objects/userhat.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
 
-This project generously funded by the Arts and Humanities Research Council (AHRC)
+This project generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC)
 brings together three key actors in the heritage ecosystem:
 
 * a university
