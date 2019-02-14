@@ -1,5 +1,7 @@
 # The Creative Economy Engagement  - Fitzwilliam Museum
 
+![A screenshot of the site](images/screenshots/screen.png)
+
 This repository will hold code for the CEEF programme, documenting the work of a multidisciplinary
 team at the Fitzwilliam Museum, Cambridge University.
 
