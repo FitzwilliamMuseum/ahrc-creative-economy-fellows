@@ -14,6 +14,8 @@ of advisors, talented students and supporters.
 
 MiaB is led by George Oates.
 
+![A picture of George, copyright Eliza Gregory]({{ site.baseurl }}/images/headshots/george.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
+
 George has been working online since 1996. She's a designer, producer, maker; part of the founding team at Flickr, doing interface/copy/system design; invented Flickr Commons, director/designer of Open Library at Internet Archive; art director at Stamen. Today, she runs two companies: Good, Form & Spectacle, a nimble software agency focussed on cultural heritage projects, and Museum in a Box, a new play on the old idea of museum handling collections. Cultural clients include British Museum, Smithsonian Institution, Wellcome Trust, Het Nieuwe Instituut, and MoMA.
 
 George's particular skills lie in designing interfaces people don't have to think about, quickly understanding complex systems, remembering the humans, challenging status quo by asking why a lot, and making people feel comfortable with and excited about change.
