@@ -2,7 +2,7 @@
 title: ThinkSee3D
 twitter: ThinkSee3D
 image: /images/partners/thinksee3d.png
-layout: team
+layout: default
 ---
 Professional 3D making services for heritage, education, science, art, medical
 education and research.
