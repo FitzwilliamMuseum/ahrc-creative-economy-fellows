@@ -19,7 +19,7 @@ When combined they provide three essential perspectives that will enable us to
 choose and drive forward four early career researcher (ECR) projects that will
 lead to enhanced collaborations that benefit the creative economy. The University of 
 Cambridge is home to a nucleus of world leading collections under the banner of [University 
-of Cambridge Museums](http://museums.cam.ac.uk) (UCM) and this project will aim to enable innovation across the group. 
+of Cambridge Museums](http://www.museums.cam.ac.uk) (UCM) and this project will aim to enable innovation across the group. 
 
 The efficacy of this type of partnership can be developed during this project to
 refine engagement models for the future. A particular challenge for businesses
