@@ -5,14 +5,15 @@ author: Daniel Pett
 created: 2019-02-11
 ---
 
-![An image of Userhat in the Gayer Anderson gallery]({{ site.baseurl }}/images/objects/userhat.jpg){:class="img-responsive"}
+![An image of Userhat in the Gayer Anderson gallery]({{ site.baseurl }}/images/objects/userhat.jpg){:class="img-responsive float-right img-circle shadow-lg p-3 mb-5 bg-white rounded" :width="250px"}
 
 This project generously funded by the Arts and Humanities Research Council (AHRC)
 brings together three key actors in the heritage ecosystem:
 
 * a university
 * a museum
-* two industrial collaborators - Museum in a Box and ThinkSee3D.
+* two industrial collaborators - [Museum in a Box]({{ site.baseurl }}partners/museuminabox/)
+and [ThinkSee3D]({{ site.baseurl }}partners/thinksee3d/).
 
 When combined they provide three essential perspectives that will enable us to
 choose and drive forward four early career researcher (ECR) projects that will
