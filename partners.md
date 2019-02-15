@@ -17,7 +17,7 @@ layout: default
                 <p class="card-text">{{ author.content | strip_html | truncatewords: 50}}</p>
 
 
-                <a href="{{ site.baseurl }}{{ author.url }}" class="btn btn-dark">Read more about {{author.title}}</a>
+                <a href="{{ author.url }}" class="btn btn-dark">Read more about {{author.title}}</a>
               </div>
           </div>
     </div>

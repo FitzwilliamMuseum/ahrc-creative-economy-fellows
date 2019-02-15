@@ -9,7 +9,7 @@ life as one of a series of R&D projects coming out of Good, Form & Spectacle in
 London. We incorporated in October 2015, after being so buoyed by reactions to
 the idea.
 
-![A picture of George, copyright Eliza Gregory]({{ site.baseurl }}/images/headshots/george.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
+![A picture of George, copyright Eliza Gregory](/images/headshots/george.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
 
 We’re a small team based in London and Liverpool, supported by a much wider crew
 of advisors, talented students and supporters.

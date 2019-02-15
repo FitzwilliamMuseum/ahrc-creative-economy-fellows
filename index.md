@@ -5,21 +5,21 @@ author: Daniel Pett
 created: 2019-02-11
 ---
 
-![An image of Userhat in the Gayer Anderson gallery]({{ site.baseurl }}/images/objects/userhat.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
+![An image of Userhat in the Gayer Anderson gallery](/images/objects/userhat.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
 
 This project which is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC)
 brings together three key actors in the heritage ecosystem:
 
 * the [University of Cambridge](https://cam.ac.uk)
 * the [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk)
-* two industrial collaborators - [Museum in a Box]({{ site.baseurl }}/partners/museuminabox/)
-and [ThinkSee3D]({{ site.baseurl }}/partners/thinksee3d/)
+* two industrial collaborators - [Museum in a Box](/partners/museuminabox/)
+and [ThinkSee3D](/partners/thinksee3d/)
 
 When combined they provide three essential perspectives that will enable us to
 choose and drive forward four early career researcher (ECR) projects that will
-lead to enhanced collaborations that benefit the creative economy. The University of 
-Cambridge is home to a nucleus of world leading collections under the banner of [University 
-of Cambridge Museums](http://www.museums.cam.ac.uk) (UCM) and this project will aim to enable innovation across the group. 
+lead to enhanced collaborations that benefit the creative economy. The University of
+Cambridge is home to a nucleus of world leading collections under the banner of [University
+of Cambridge Museums](http://www.museums.cam.ac.uk) (UCM) and this project will aim to enable innovation across the group.
 
 The efficacy of this type of partnership can be developed during this project to
 refine engagement models for the future. A particular challenge for businesses
@@ -38,5 +38,5 @@ Our partners bring very unique skillsets to the Museum. ThinkSee3D and Museum in
 a Box are innovators in joining heritage with digital. This site will document our
 2019 journey of collaborations, events and products.
 
-This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019 
+This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019
 and finishes on December 31st 2019.
