@@ -3,6 +3,7 @@ layout: news
 title: First Meeting with Museum in a Box
 author: Abi L. Glen
 category: news
+permalink: /news/first-meeting-with-museum-in-a-box
 date: 2019-02-19
 updated: 2019-02-19
 tags: [3d, AHRC, launch]
