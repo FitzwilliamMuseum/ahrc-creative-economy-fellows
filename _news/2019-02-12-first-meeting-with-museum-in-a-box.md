@@ -12,7 +12,7 @@ Twas the 5th of February, and all through the house, many creatures were stirrin
 
 <div class="embed-responsive embed-responsive-16by9">
  <video class="embed-responsive-item" controls>
-<source src="/images/file=SquirrelMIAB" type="video/mp4"/>
+<source src="/images/Squirrel%20MIAB.mp4" type="video/mp4"/>
 </video>
 </div>
 I am very pleased Dan managed to capture the pure delight that a Museum in a Box can bring. Any time anyone questions me on who the boxes are for, and if the content might patronize or alienate different ages, I can just show them this. An allegedly grown woman, with various Responsibilities and Qualifications, squealing over a squirrel with a Barnsley accent. 
