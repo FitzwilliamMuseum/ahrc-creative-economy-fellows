@@ -27,7 +27,7 @@
 
     {% if page.url == "/news" %}
     <div class="row">
-        <div class="col-12 mb-2 ">
+        <div class="col-md-12 mb-2 ">
             <h1 id="doc-main-h1">Latest news</h1>
         </div>
     </div>
@@ -58,7 +58,7 @@
             <h1 id="doc-main-h1">{{ page.title }}</h1>
         </div>
     </div>
-    <div class="col-12 shadow-sm  p-3 mb-3 bg-white rounded">
+    <div class="col-md-12 shadow-sm  p-3 mb-3 bg-white rounded">
         {{ content }}
     </div>
     {% else %}
@@ -68,7 +68,7 @@
         </div>
     </div>
 
-    <div class="col-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
+    <div class="col-md-12 shadow-sm  p-3 mb-3 mx-2 bg-white rounded">
         {{ content }}
         {% if page.images %}
         {% assign count = page.images.size %}
