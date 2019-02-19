@@ -14,7 +14,7 @@
 
 <!-- Screen reader skip to main -->
 <a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
-    <div class="container-fluid">
+    <div class="container">
         <span class="doc-skip-text">Skip to main content</span>
     </div>
 </a>
@@ -23,7 +23,7 @@
 
 {% include /structure/jumbotron.html %}
 
-<div class="container-fluid">
+<div class="container">
 
     {% if page.url == "/news" %}
     <div class="row">
@@ -73,7 +73,7 @@
         {% if page.images %}
         {% assign count = page.images.size %}
         {% assign slides = page.images | slice:1, count %}
-        <div class="container-fluid mt-3 mb-3">
+        <div class="container mt-3 mb-3">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
