@@ -1,6 +1,6 @@
 ---
 title: Dr Catriona Cooper
-twitter: ""
+twitter: "@CatrionaCooper"
 image: "/images/staff/catcooper.jpg"
 institution: The Fitzwilliam Museum
 job-title: Research Fellow - Project 1
