@@ -4,7 +4,7 @@ twitter: "@jwexlerbm"
 image: "/images/staff/jenniferwexler.jpeg"
 institution: The Fitzwilliam Museum
 job-title: Research Fellow - Project 4
-layout: default
+layout: team
 ---
 Dr Jennifer Wexler is an independent researcher and consultant working as a field
 and museum archaeologist in the UK, Italy, Egypt, and the USA. She specializes in
