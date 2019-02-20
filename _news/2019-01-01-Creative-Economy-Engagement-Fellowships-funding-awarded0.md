@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 title: Creative Economy Engagement Fellowships funding awarded
 author: Daniel Pett
 category: news
@@ -28,4 +28,4 @@ ThinkSee3D, led by Steve Dey, are based in Eynsham, Oxfordshire and will be work
 with Dr Catriona Cooper (policy based) and Dr Melanie Pitkin (Egyptian coffins) to produce
 much needed resources for the University of Cambridge Museums.
 
-This is just the beginning of the Fitzwilliam Museum's journey into the world of 3D. 
+This is just the beginning of the Fitzwilliam Museum's journey into the world of 3D.
