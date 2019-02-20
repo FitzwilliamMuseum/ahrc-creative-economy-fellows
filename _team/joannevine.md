@@ -1,6 +1,6 @@
 ---
 title: Dr Joanne Vine
-twitter: ""
+twitter: "@drjovine"
 image: "/images/staff/VineJoanne.jpg"
 institution: The Fitzwilliam Museum
 job-title: Head of Research
