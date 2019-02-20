@@ -11,7 +11,7 @@ tags: [3d, AHRC, launch]
 
 Twas the 5th of February, and all through the house, many creatures were stirring, including this squirrel:
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9 mb-3">
     <video class="embed-responsive-item" controls>
          <source src="/videos/squirrelMIAB.mp4" type="video/mp4"/>
     </video>
