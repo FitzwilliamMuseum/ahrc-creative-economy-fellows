@@ -5,6 +5,7 @@ image: "/images/staff/danielpett.jpeg"
 institution: The Fitzwilliam Museum
 job-title: Principal Investigator
 layout: team
+orcid: 0000-0002-0246-2335
 ---
 Dan was previously Digital Humanities lead at the British Museum, where he designed
 and implemented digital innovation connecting humanities research, museum practice,
