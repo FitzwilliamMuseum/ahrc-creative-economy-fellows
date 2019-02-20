@@ -50,7 +50,7 @@
             <p>
               <span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution }}</span>
               {% if page.twitter %}
-              <span class="chip"><i class="chip-icon"><i class="fab fa-twitter"></i></i><a href="https://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a></span> 
+              <span class="chip"><i class="chip-icon"><i class="fab fa-twitter"></i></i><a href="https://twitter.com/{{ page.twitter | replace: "@", ""}}" class="share">{{ page.twitter }}</a></span> 
               {% endif %}
             </p>
       </div>
