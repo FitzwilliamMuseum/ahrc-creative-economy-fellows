@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    <title>{{page.title}}</title>
+    {% include /structure/css.html %}
+    {% seo %}
+    {% include /structure/feeds.html %}
+</head>
+<body class="doc-body">
+
+<!-- Screen reader skip to main -->
+<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+    <div class="container">
+        <span class="doc-skip-text">Skip to main content</span>
+    </div>
+</a>
+
+{% include /structure/navigation.html %}
+
+{% if page.category %}
+{% assign class = page.category %}
+{% else %}
+{% assign class = 'head' %}
+{% endif %}
+
+{% include /structure/jumbotron.html %}
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-12 mb-2 ">
+
+            <h1 id="doc-main-h1">{{ page.title }}</h1>
+        </div>
+    </div>
+
+
+      <div>
+          <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl}}{{author.image}}"
+                         alt="{{page.title}}'s profile image" height="150" width="150">
+            <h5 class="card-title">{{page.title}} </h5>
+                                {% if page.job-title %}
+                                <h6 class="text-muted">{{ page.job-title}} </h6>
+                                {% endif %}
+
+            <p class="card-text">{{ page.content }}</p>
+
+            <p><span class="chip"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution}}</span></p>
+      </div>
+
+
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="mb-2 mx-2 rounded">
+            {% if page.images %}
+            {% assign rows = page.images.size | divided_by: 2.0 | ceil %}
+            {% for i in (1..rows) %}
+            {% assign offset = forloop.index0 | times: 2 %}
+            <div class="row mb-3">
+                {% for image in page.images limit:2 offset:offset %}
+                <div class="col-md-6 mt-3">
+                    <div class="card  w-100 mx-auto">
+                        <div class="card-body">
+                            <img class="mx-auto d-block max-coffins"
+                                 src="/images/{{page.category}}/{{image.image}}">
+                            <p class="text-center">{{ image.caption }}</p>
+
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+    {% include share_buttons.html %}
+</div>
+
+
+{% include structure/footer_logos.html %}
+{% include structure/footer.html %}
+{% include structure/javascript.html %}
+{% include analytics/google_analytics.html %}
+
+
+</body>
+</html>

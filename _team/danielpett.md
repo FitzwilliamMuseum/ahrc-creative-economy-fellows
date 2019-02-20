@@ -4,7 +4,7 @@ twitter: "@dejpett"
 image: "/images/staff/danielpett.jpeg"
 institution: The Fitzwilliam Museum
 job-title: Principal Investigator
-layout: default
+layout: team
 ---
 Dan was previously Digital Humanities lead at the British Museum, where he designed
 and implemented digital innovation connecting humanities research, museum practice,
