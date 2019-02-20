@@ -24,6 +24,10 @@ video {
 .share a {
     color: #fff;
 }
+.shareTwitter a {
+    color: #fff;
+}
+
 .cd-nugget-info {
   text-align: center;
   position: absolute;
