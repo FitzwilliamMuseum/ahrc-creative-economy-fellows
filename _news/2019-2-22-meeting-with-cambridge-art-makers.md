@@ -19,6 +19,6 @@ Susie and Ro co-ordinate Cambridge Makers alongside their dad, the venerable Dan
 
 Over a lot of cake and more chatter, the Bangham sisters have already exceeded my hopes for the boxes. I had that lovely feeling of speaking to true craftspeople—where you can babble on in a vague fashion about colours and shapes, and they somehow manage to interpret it into something viable and, more importantly, beautiful. I can’t give away too much yet, but some of the ideas we’ve discussed are hand-printed box sleeves, interpretations of the Baroque feast in painted form, and something pineapple-y, in keeping with the Fitz’s railings and the running visual theme of <i>Eat Feast Fast<i/>.
 
-![Pineapple railing](/images/screenshots/Pineapple railing.jpg)
+![Pineapple railing](/images/screenshots/Pineapple railing.jpg){: .img-fluid }
 
 I’ll make sure to keep you all updated on the prototypes and design meetings, and—not to put undue pressure on Ro and Susie, who have to actually go and design the stuff now—but seriously, you guys know how good this is going to be?
