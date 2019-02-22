@@ -9,9 +9,9 @@ updated: 2019-02-22
 tags: [3d, AHRC, launch]
 ---
 
-_"You know, I really am keen to make sure we spend enough money on getting good design.’
+_"You know, I really am keen to make sure we spend enough money on getting good design."_
 
-‘Said no-one, ever."_
+_" Said no-one, ever."_
 
 I love artists. Good, bad, mediocre, ascending, jaded, pretentious, homespun— the lot. I am an artists’ groupie, <a href="https://en.wikipedia.org/wiki/Cynthia_Plaster_Caster">Cynthia Plaster Caster</a> but for literal plaster-casters. Why yes, I do want to see your etchings, friends, and your textile work, and your weird sound-recordings on warped vinyl. So this meeting with Susannah and Rosemary Bangham from the <a href="https://www.cambridgemakers.org/">Cambridge Makers</a>  was a dream. We’ve been talking about ‘stimulating the local creative economy’ (an AHRC buzzphrase) since the nascent stages of this project, and what better way to do that than hire a cabal of painfully talented polymaths from Linton?
 
