@@ -14,7 +14,7 @@ Flowers and flossing are all very well, but the true measure that your childhood
 We’ve been insistent that we’ll use sustainable and recyclable materials as far as possible for this project. Lil Packaging is one of the biggest packaging suppliers in the UK, are coincidentally just up the road, and are about the only company of its kind approved by the Forest Council. We wanted some kraftpaper/brown cardboard to keep with that handmade #aesthetic the <Cambridge Art Makers> are working on. 
 Sadly Lil had run out of these, so we ordered a selection of sprauncy carriers and plain white pizza boxes instead. I had the world’s lamest Goldilocks moment playing with them. In case you’re interested, a taxonomy of the order: 
   
-![Packaging Table](/ahrc-creative-economy-fellows/images/screenshots/Packaging Table.jpg){: .img-fluid }   	
+![Packaging Table](/images/screenshots/Packaging%20Table.jpg){: .img-fluid }   	
        
       
 Does anybody have any suggestions for sustainable and reasonably priced packaging? Or maybe something better for me to do with my time. Either way, send us a note on the Contact Us form below, or tweet<a href="https://twitter.com/abilglen">@abilglen</a>.
