@@ -1,4 +1,13 @@
-
+---
+layout: default
+title: Adventures in Packaging
+author: Abi L. Glen
+category: news
+permalink: /news/adventures-in-packaging
+date: 2019-03-05
+updated: 2019-03-05
+tags: [3d, AHRC, launch]
+---
 The Guardian thinks that having hanging baskets is the <a href="https://www.theguardian.com/lifeandstyle/shortcuts/2019/mar/04/a-beautiful-hanging-basket-and-six-other-signs-youve-mastered-adulthood">sign</a> you’ve mastered adulthood.
 Flowers and flossing are all very well, but the true measure that your childhood is over is when you literally skip to pick up a delivery of cardboard boxes. That’s right. I got a genuine kick of joy at the thought of a cardboard box filled with other, smaller cardboard boxes.
 
