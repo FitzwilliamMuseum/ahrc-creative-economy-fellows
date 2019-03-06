@@ -26,6 +26,6 @@ This project will result in several virtual and physical 3D models pertaining to
 
 Other outputs from this project include digital and print publication, especially on the Fitzwilliam Egyptian Coffins website, and a reputable museum journal such as Curator. I also plan to deliver a paper on this collaborative project with ThinkSee3D at the annual ICOM-CIPEG meeting for curators working with ancient Egyptian collections worldwide. 
 
-Furthermore, I will learn a new range of digital skills from this Fellowship, including 3D printing, advanced skills in photogrammetry, augmented reality and how to use specific software programmes for virtual modelling, such as Osirix. It will also be an opportunity to develop my skills in different modes of audience engagement using a new range of material (namely 3D modelling) through which we can innovatively communicate and demonstrate aspects of our research.
+Furthermore, I will learn a new range of digital skills from this Fellowship, including 3D printing, advanced skills in photogrammetry, augmented reality and how to use specific software programmes for virtual modelling, such as Photoscan. It will also be an opportunity to develop my skills in different modes of audience engagement using a new range of material (namely 3D modelling) through which we can innovatively communicate and demonstrate aspects of our research.
 
 
