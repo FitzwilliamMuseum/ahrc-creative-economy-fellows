@@ -11,7 +11,9 @@ tags: [3d, AHRC, launch]
 
 Regular readers round here will know how exciting I find post. Any kind of post—letters, cards, receipts, forms, cardboard boxes, the New York Post, wooden dowels as part of 5-bar fences. I am equal opportunities for post. A Mail/Female Affirmative Action supporter. 
 
-So you can imagine the unbridled joy at receiving an actual brown paper package tied up with string... containing our first-ever Box! Meet Pandora:
+So you can imagine the unbridled joy at receiving an actual brown paper package tied up with string... containing our first-ever Box!
+
+Meet Pandora:
 
   ![IMG-20190307-WA0010.jpg](/images/objects/IMG-20190307-WA0010.jpg)
        
