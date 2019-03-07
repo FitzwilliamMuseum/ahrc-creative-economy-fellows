@@ -7,7 +7,7 @@ category: news
 permalink: /news/she's-arrived
 date: 2019-03-07
 updated: 2019-03-07
-<b>tags: [3d, AHRC, launch]<b>
+tags: [3d, AHRC, launch]
 ---
 
 Regular readers round here will know how exciting I find post. Any kind of post--- letters, cards, receipts, forms, cardboard boxes, the New York Post, wooden dowels as part of 5-bar fences. I am equal opportunities for post. A Mail/Female Affirmative Action supporter. 
