@@ -13,7 +13,7 @@ Regular readers round here will know how exciting I find post. Any kind of post-
 
 So you can imagine the unbridled joy at receiving an actual brown paper package tied up with string containing our first-ever Box.
 
-  ![IMG-20190307-WA0010.jpg]](/images/objects/IMG-20190307-WA0010.jpg){: .img-fluid }
+  ![IMG-20190307-WA0010.jpg](/images/objects/IMG-20190307-WA0010.jpg){: .img-fluid }
        
 
 She’s had quite the journey. From Hoxton to the British Museum (ably received by Jen’s husband, Sam) to Islington to Cambridge, and now ready for a close-up. The Perspex boxes come in a CMYK colour-way. I knew we’d be taking the box to a wide range of outreach groups, and didn’t want it to be too obviously gendered (and they’d run out of black). So Pandora’s the exact colour of a daffodil---- cheerful, distinctive, pleasingly squat.
