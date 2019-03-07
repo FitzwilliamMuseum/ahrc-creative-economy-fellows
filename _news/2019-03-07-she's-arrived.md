@@ -23,6 +23,6 @@ She’s had quite the journey. From Hoxton to the British Museum (ably received 
 
 ![IMG-20190307-WA0013.jpg](/images/objects/IMG-20190307-WA0013.jpg)
 
-She’s looking at me expectantly while I write this, given the slew of visitors we had yesterday. Today I’ll take her up to Finance (nothing to do with the fact they sign off my expenses— they are a bunch of fiercely smart and curious women who love to know about the latest research in the museum). Next up will be a meeting with Education to talk about our plans for outreach to hospitals, and then to Vicky Avery to show her the possibilities for a digital space in the Food exhibition.
+She’s looking at me expectantly while I write this, given the slew of visitors we had yesterday. Today I’ll take her up to Finance (are a bunch of fiercely smart and curious women who love to know about the latest research in the museum, who also happen to sign off my expenses). Next up will be a meeting with Education to talk about our plans for outreach to hospitals, and then to Vicky Avery to show her the possibilities for a digital space in the Food exhibition.
 
 If you’re nearby and fancy a demo, let me know via Twitter (@abilglen) or the form below.
