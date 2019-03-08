@@ -15,13 +15,13 @@ So you can imagine the unbridled joy at receiving an actual brown paper package 
 
 Meet Pandora:
 
-  ![IMG-20190307-WA0010.jpg](/images/objects/IMG-20190307-WA0010.jpg){: .image-fluid }
+  ![IMG-20190307-WA0010.jpg](/images/objects/IMG-20190307-WA0010.jpg){: .img-fluid }
        
 (Also pictured:Bramley, who, despite Dan's suggestion, DOES NOT have 'sausage potential'.)
 
 She’s had quite the journey. From Hoxton to the British Museum (ably received by Jen’s husband, Sam; thanks, Sam!) to Islington to Cambridge, and now ready for her close-up. The Perspex boxes come in a CMYK colour-way. I knew we’d be taking the box to a wide range of outreach groups, and didn’t want it to be too obviously gendered (and they’d run out of black). So Pandora’s the exact colour of a daffodil— cheerful, distinctive, pleasingly squat.
 
-![IMG-20190307-WA0013.jpg](/images/objects/IMG-20190307-WA0013.jpg){: .image-fluid }
+![IMG-20190307-WA0013.jpg](/images/objects/IMG-20190307-WA0013.jpg){: .img-fluid }
 
 She’s looking at me expectantly while I write this, given the slew of visitors we had yesterday. Today I’ll take her up to Finance (are a bunch of fiercely smart and curious women who love to know about the latest research in the museum, who also happen to sign off my expenses). Next up will be a meeting with Education to talk about our plans for outreach to hospitals, and then to Vicky Avery to show her the possibilities for a digital space in the Food exhibition.
 
