@@ -1,0 +1,11 @@
+/* TEAM */
+
+Your title: The AHRC Creative economy team
+Site: https://Creative-economy.fitzmuseum.cam.ac.uk/contactus
+Location: Cambridge, UK
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Material Design, Bootstrap 4, jQuery
+Software: Jekyll, Atom
