@@ -17,7 +17,7 @@ Twas the 5th of February, and all through the house, many creatures were stirrin
     </video>
 </div>
 
-I am very pleased Dan managed to capture the pure delight that a Museum in a Box can bring. Any time anyone questions me on who the boxes are for, and if the content might patronize/alienate different ages, I can just show them this. An allegedly grown woman, with various Responsibilities and Qualifications, squealing over a squirrel with a Barnsley accent.
+I am very pleased Dan managed to capture the pure delight that a Museum in a Box can bring. Any time anyone questions me on who the boxes are for, and if the content might patronise/alienate different ages, I can just show them this. An allegedly grown woman, with various Responsibilities and Qualifications, squealing over a squirrel with a Barnsley accent.
 
 George Oates, CEO of Museum in a Box and our creative industry partner, had flown her Hoxton offices to join us for a day in Cambridge. First on the list was coffee (George is Australian, and I follow my Italian neighbour Fiorella’s dictum: ‘3 espresso in the morning: one for this eye, one for that eye, one for my brain’) followed by a whistle-stop tour of the Museum’s highlights. A little Lowry, a mooch around the Millais, a poke at the pineapples.
 
