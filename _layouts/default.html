@@ -55,6 +55,11 @@
       </div>
       {% else %}
       <div class="shadow-sm p-3 mx-auto mb-3 bg-white rounded">
+          {% if page.author %}
+          <img class="align-self-center mr-3 rounded-circle float-right thumb-post"
+               src="{{ page.author_image }}."
+               alt="{{ page.author }}'s profile image" height="150" width="150">
+          {% endif %}
           {{ content }}
       </div>
       {% endif %}
