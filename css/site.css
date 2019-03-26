@@ -233,3 +233,8 @@ label.cm-app-label {
     display: flex;
     flex-wrap: wrap;
 }
+.text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
