@@ -8,6 +8,8 @@ date: 2019-02-22
 updated: 2019-02-22
 tags: [3d, AHRC, launch]
 thumbnail: /images/screenshots/Pineapple railing.jpg
+author: Abi L. Glen
+author_image: Abi_L.jpeg
 ---
 
 _"You know, I really am keen to make sure we spend enough money on getting good design."_

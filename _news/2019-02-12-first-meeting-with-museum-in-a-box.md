@@ -7,6 +7,8 @@ permalink: /news/first-meeting-with-museum-in-a-box
 date: 2019-02-19
 updated: 2019-02-19
 tags: [3d, AHRC, launch]
+author: Abi L. Glen
+author_image: Abi_L.jpeg
 ---
 
 Twas the 5th of February, and all through the house, many creatures were stirring, including this squirrel:

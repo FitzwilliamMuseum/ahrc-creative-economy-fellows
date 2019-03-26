@@ -7,6 +7,8 @@ date: 2019-01-01
 updated: 2019-02-12
 tags: [3d, AHRC, launch]
 permalink: /news/creative-economy-fellowships-funding-awarded
+author: Daniel Pett
+author_image: danielpett.jpeg
 ---
 
 The Fitzwilliam Museum is pleased to announce that it has received funding from
