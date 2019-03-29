@@ -9,19 +9,19 @@ updated: 2019-03-29
 tags: [3d, AHRC, ThinkSee3D, photogrammetry, digital, replica]
 thumbnail: /images/objects/studio3.jpg
 author: Melanie Pitkin
-author_image: MPitkin.jpeg
+author_image: MPitkin.jpg
 images:
   -
-    image: objects/studio.jpg
+    image: /images/objects/studio.jpg
     caption: ThinkSee3D's studio outside Oxford, England.
   -
-    image: objects/studio2.jpg
+    image: /images/objects/studio2.jpg
     caption: "From L-R: Catriona Cooper, Abi Glen, Jo Vine, Jennifer Wexler and Melanie Pitkin"
   - 
-    image: objects/studio3.jpg
+    image: /images/objects/studio3.jpg
     caption: 3D prints of the Egyptian statue of Roy from the British Museum.
   -
-    image: objects/studio4.jpg
+    image: /images/objects/studio4.jpg
     caption: "Owner-founder of ThinkSee3D, Steve Dey, speaking with the CEEF team."
 ---
 
