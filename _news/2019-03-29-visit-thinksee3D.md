@@ -10,6 +10,19 @@ tags: [3d, AHRC, ThinkSee3D, photogrammetry, digital, replica]
 thumbnail: /images/objects/studio3.jpg
 author: Melanie Pitkin
 author_image: MPitkin.jpeg
+images:
+  -
+    image: objects/studio.jpg
+    caption: ThinkSee3D's studio outside Oxford, England.
+  -
+    image: objects/studio2.jpg
+    caption: "From L-R: Catriona Cooper, Abi Glen, Jo Vine, Jennifer Wexler and Melanie Pitkin"
+  - 
+    image: objects/studio3.jpg
+    caption: 3D prints of the Egyptian statue of Roy from the British Museum.
+  -
+    image: objects/studio4.jpg
+    caption: "Owner-founder of ThinkSee3D, Steve Dey, speaking with the CEEF team."
 ---
 
 On Friday 15th March, the CEEF team visited the ThinkSee3D studio in Eynsham, a small village outside Oxford. The purpose of the visit was to gain firsthand insights into the processes of 3D printing, photogrammetry and digital 3D modeling with founder-owner, Steve Dey, and find out more about the perks and challenges of working as a small-scale heritage business.
