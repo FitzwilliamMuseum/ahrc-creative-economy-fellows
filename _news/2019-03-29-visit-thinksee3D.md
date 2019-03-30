@@ -13,7 +13,7 @@ author_image: MPitkin.jpg
 ---
 On Friday 15th March, the CEEF team visited the [ThinkSee3D](https://www.thinksee3d.com) studio in Eynsham, a small village outside Oxford. The purpose of the visit was to gain firsthand insights into the processes of 3D printing, photogrammetry and digital 3D modeling with founder-owner, Steve Dey, and find out more about the perks and challenges of working as a small-scale heritage business.
 
-<p align="center">![ThinkSee3D studio](/images/objects/studio.jpg){: .img-fluid }</p>
+![ThinkSee3D studio](/images/objects/studio.jpg){: .img-fluid }
 
 The visit commenced with a tour of the studio followed by an informal Q&A session with Steve about various aspects of our projects, and the nature of 3D more generally. We also had the opportunity to handle and interrogate a range of 3D printed objects made in varying materials, including a silicone heart made for the Science Museum in London (this was one of my personal favourites!), a giant resin Ichthyosaur dinosaur bone and the Roman portrait bust of the young Greek Antinous made from resin for the British Museum shop. You can read more about the original bust [here](https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=460095). 
 
