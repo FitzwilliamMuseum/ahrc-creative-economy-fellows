@@ -1,5 +1,5 @@
 ---
-title: conference
+title: "Do Not Touch: 3D in Museums"
 layout: default
 permalink: conference
 author: Jennifer Wexler
@@ -8,8 +8,6 @@ created: 2019-04-04
 ---
 
 ![An image of a Museum in a Box](/images/objects/museuminabox.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white"}
-
-**Do Not Touch: 3D in Museums**
 
 Date: 3rd June 2019
 Location: [Judge Business School, University of Cambridge](https://www.jbs.cam.ac.uk/)
