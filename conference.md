@@ -7,7 +7,7 @@ author_image: jenniferwexler.jpeg
 created: 2019-04-04
 ---
 
-![An image of a Museum in a Box](/images/objects/museuminabox.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white rounded-circle"}
+![An image of a Museum in a Box](/images/objects/museuminabox.jpg){:class="img-fluid float-right img-circle shadow-lg p-3 mb-5 bg-white"}
 
 **Do Not Touch: 3D in Museums**
 
