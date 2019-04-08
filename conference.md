@@ -8,8 +8,11 @@ created: 2019-04-04
 ---
 
 Date: 3rd June 2019
+
 Location: [Judge Business School, University of Cambridge](https://www.jbs.cam.ac.uk/)
+
 Time: 9:30am - 4:30pm
+
 Tickets: £15 waged/£5 non-waged
 
 Join the [University of Cambridge Museums](https://www.museums.cam.ac.uk/) for a one-day conference about 3D technology and tactile access to heritage collections. We’ll be exploring how 3D modelling and printing technology can be used to open up collections to everyone.
