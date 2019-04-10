@@ -1,5 +1,5 @@
 ---
-title: "Do Not Touch: 3D in Museums"
+title: "Do Not Touch? 3D in Museums"
 layout: default
 permalink: conference
 author: Jennifer Wexler
