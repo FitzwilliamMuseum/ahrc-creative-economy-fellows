@@ -28,3 +28,15 @@ Speakers will specialise in 3D technologies, conservation, learning, outreach an
 The conference is co-organised by the [CEEF](https://creative-economy.fitzmuseum.cam.ac.uk/) and [Do Not Touch](https://do-not-touch.fitzmuseum.cam.ac.uk/) Projects, in collaboration with the [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk) and our two industrial collaborators - [Museum in a Box](/partners/museuminabox/) and [ThinkSee3D](/partners/thinksee3d/).
 
 This project  is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC)
+
+Wherever possible we wish to make this event accessible and collegiate; we are committed to making reasonable accommodations to facilitate the full participation of all attendees. Please contact us with any questions or requests that will facilitate your attendance. 
+
+We will be based in the Judge Business School for the event; details regarding accessibility are available [here](https://www.jbs.cam.ac.uk/contact/access-for-people-with-disabilities/) There are no gender neutral toilets on site, venue staff encourage anyone who does not feel comfortable using the male or female facilities to use the disabled toilets. 
+
+We encourage attendees of all ages, levels of experience/qualification, and across all disciplines. We are adopting an “opt out” policy regarding sharing scholarly activities associated with the conference. Presenters are requested to communicate any restrictions on sharing their conference activities in advance to the conference team and again during conference activities.
+
+Discrimination on the basis of age, race, ethnicity, gender, sexual orientation, ability, nationality, religion or any other basis are not tolerated.
+
+We do not tolerate harassment of any form, in person or via digital media. Harassment includes any unwelcome conduct toward an individual that creates an intimidating, hostile, or offensive professional environment. This includes, but is not limited to, comments or jokes, non-verbal conduct, physical conduct, and exposure to visual image.
+
+If you have any concerns or questions in advance, during or after the event please contact Daniel Pett (dejp3@cam.ac.uk) or Jo Vine (jrv31@cam.ac.uk) via email or in person.
