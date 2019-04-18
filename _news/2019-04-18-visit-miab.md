@@ -12,11 +12,11 @@ author: Jennifer Wexler
 author_image: jenniferwexler.jpeg
 ---
 A little over a week ago, Jo, Abi, and I were lucky enough to make a special visit to [Museum in a Box (MiaB)](http://www.museuminabox.org/) Headquarters in Shoreditch. Located  just around the corner from the [‘Silicon Roundabout’](https://www.hoxtonmix.com/silicon-roundabout/), MiaB is at the cutting edge of DIY cultural heritage-digital interactives, allowing museums, schools, and anyone who is interested to develop and create their own mini-museums in a box.
- 
- ![MIAB Brain Box](/images/objects/MIABvisit3.jpg){: .img-fluid }
- Fun times trying out the kit (brain boxes) at MiaB HQ. Note: chocolate may have been involved in the proceedings!
 
 We met with [George Oates](/_partners/museuminabox.md), the head of MiaB and our creative industry partner, and Charlie, MiaB designer, to discuss our projects, upcoming work packages, and to learn more about MiaB’s working practices and plans. As Abi and I are in the process of developing our own projects in connection with MiaB, it was great to get insights from George about her experiences and best practice in developing various MiaB collections over the last few years. 
+
+![MIAB Brain Box](/images/objects/MIABvisit3.jpg){: .img-fluid }
+ Fun times trying out the kit (brain boxes) at MiaB HQ. Note: chocolate may have been involved in the proceedings!
 
 For example, depending on the focus of a MiaB collection, ideally it is best to stick to 9-12 objects or postcards (eg. around 10 1-minute stories) for interactions, as this makes a collection easily digestible in a single sitting. George rightly points out to us that is it not just about having fancy 3D prints for MiaB collections, but rather about being creative about fashioning different types of experiences, which sometimes can be done just as well using DIY creations such as mini-postcards printed at home. The key to a great interaction is to consider: ‘who is the audience’ and ‘what is the context’? For the content, it is best to be challenging, not didactic and to create questions that allow the interactive experiences to lead towards the self-creation of knowledge. All key points for us to consider as we move forward developing our projects.  
 
