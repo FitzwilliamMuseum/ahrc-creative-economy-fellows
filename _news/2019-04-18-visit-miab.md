@@ -27,7 +27,7 @@ For example, depending on the focus of a MiaB collection, ideally it is best to 
 
 <figure class="figure">
 
-<img src="/images/objects/MIABvisit4.jpg)" class="img-fluid"/>
+<img src="/images/objects/MIABvisit4.jpg" class="img-fluid"/>
 
 <figcaption class="figure-caption">
 George, Abi, and Jo discussing CEEF project plans.
