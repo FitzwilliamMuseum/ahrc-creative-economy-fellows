@@ -17,7 +17,7 @@ We met with [George Oates](/_partners/museuminabox.md), the head of MiaB and our
 
 <figure class="figure">
 
-![MIAB Brain Box](/images/objects/MIABvisit3.jpg){: .img-fluid }
+<img src="/images/objects/MIABvisit3.jpg" class="img-fluid" />
 
 <figcaption class="figure-caption">Fun times trying out the kit (brain boxes) at MiaB HQ. Note: chocolate may have been involved in the proceedings!</figcaption>
 
@@ -27,7 +27,7 @@ For example, depending on the focus of a MiaB collection, ideally it is best to 
 
 <figure class="figure">
 
-![MIAB Brain Box](/images/objects/MIABvisit4.jpg){: .img-fluid }
+<img src="//images/objects/MIABvisit4.jpg)" class="img-fluid"/>
 
 <figcaption class="figure-caption">
 George, Abi, and Jo discussing CEEF project plans.
@@ -38,8 +38,7 @@ We went over lots of project plans with George, including specific questions abo
 
 <figure class="figure">
 
-![MIAB Brain Box](/images/objects/MIABvisit5.jpg){: .img-fluid }
-
+<img src="/images/objects/MIABvisit5.jpg" class="img-fluid"/>
 <figcaption class="figure-caption">
 We made it onto the official MiaB planning wall via rainbow post-it notes!
 </figcaption>
@@ -50,7 +49,7 @@ After the hard work of discussing project plans, we got to delve into MiaB’s s
 
 <figure class="figure">
 
-![MIAB Brain Box](/images/objects/MIABvisit2.jpg){: .img-fluid }
+<img src="/images/objects/MIABvisit2.jpg" class="img-fluid"/>
 
 <figcaption class="figure-caption">
 Delving into the MiaB collection archive…
@@ -62,7 +61,7 @@ Recently, MiaB have taken on a [mass prototyping challenge](http://www.museumina
 
 <figure class="figure">
 
-![MIAB Brain Box](/images/objects/MIABvisit1.jpg){: .img-fluid }
+<img src="/images/objects/MIABvisit1.jpg" class="img-fluid"/>
 
 <figcaption class="figure-caption">
 Map showing the types of organisations and where pilot boxes have been sent.
@@ -74,7 +73,7 @@ One of the key features of the pilot scheme is the newly-created [‘Heart’ Co
 
 <figure class="figure">
 
-![MIAB Brain Box](/images/objects/MIABvisit7.jpg){: .img-fluid }
+<img src="/images/objects/MIABvisit7.jpg" class="img-fluid" />
 
 <figcaption class="figure-caption">
 Prints from their collection
