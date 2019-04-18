@@ -69,7 +69,7 @@ Map showing the types of organisations and where pilot boxes have been sent.
 
 </figure>
 
-One of the key features of the pilot scheme is the newly-created [‘Heart’ Content Management System (CMS)](https://heart.museuminabox.org/), which allows users to easily bring together audio, images, and 3D content to upload onto the MiaB ‘brain boxes’ (see first photo). George gave us a first-hand tutorial of how the system works, and how we can upload content in different collections and with different content licenses. IP/rights around the use of digital content is an important issue confronting cultural heritage institutions and a strain of research running throughout all the CEEF projects. Depending on the needs of the institutions and content creators involved, collections on Heart can be accessed by other people via the MiaB website to mix-and-match their own collections if allowed by the content creators – you can explore the collections already available [here](https://heart.museuminabox.org/collections/). This not only connects to MiaB’s central goal of opening up museums to everyone via exploratory digital experiences but also will allow users to easily update and manage project content, and more importantly for the CEEF projects, experiment with different types of interactions for different audiences.
+
 
 <figure class="figure">
 
