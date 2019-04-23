@@ -19,4 +19,6 @@ As a consequence, I agree to a lot of things, mostly because I think they’ll b
 I should point out that Mr. Pinchy had already been hob-nobbing, in his crustaceous way, with the photographers for 36 hours before Jen and I arrived. He looked great, but he … well, he smelled like the end of the day. Nonetheless, we persisted. Dan advised me to get as many photos as we could for the processing to be successful, so I put aside my natural impatience and attempted to get MP from every angle (I resisted calling out encouragement to my model, but I can’t promise I didn’t internally shout ‘the clam-era loves you, baby’). I was pointing and shooting in arcs overhead while Jen wielded the SLR like David Bailey in a nice frock.
 
 This week’s task will be to run the hundreds of photographs we took through our processing software, and hopefully be rewarded with a 3D model we can print; a new meaning to Snappy Snaps, indeed.
- ![images/Mr Pinchy.png](/images/Mr Pinchy.png){: .img-fluid }
+
+
+![images/Mr Pinchy.png](/images/Mr Pinchy.png){: .img-fluid }
