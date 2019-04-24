@@ -27,7 +27,7 @@ Speakers will specialise in 3D technologies, conservation, learning, outreach an
 
 The conference is co-organised by the [CEEF](https://creative-economy.fitzmuseum.cam.ac.uk/) and [Do Not Touch](https://do-not-touch.fitzmuseum.cam.ac.uk/) Projects, in collaboration with the [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk) and our two industrial collaborators - [Museum in a Box](/partners/museuminabox/) and [ThinkSee3D](/partners/thinksee3d/).
 
-This project  is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC)
+This project  is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC) and grant from the University of Cambridge Knowledge Transfer Facilitator pump priming fund. 
 
 Wherever possible we wish to make this event accessible and collegiate; we are committed to making reasonable accommodations to facilitate the full participation of all attendees. Please contact us with any questions or requests that will facilitate your attendance. 
 
