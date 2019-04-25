@@ -39,4 +39,4 @@ Discrimination on the basis of age, race, ethnicity, gender, sexual orientation,
 
 We do not tolerate harassment of any form, in person or via digital media. Harassment includes any unwelcome conduct toward an individual that creates an intimidating, hostile, or offensive professional environment. This includes, but is not limited to, comments or jokes, non-verbal conduct, physical conduct, and exposure to visual image.
 
-If you have any concerns or questions in advance, during or after the event please contact Daniel Pett (dejp3@cam.ac.uk) or Jo Vine (jrv31@cam.ac.uk) via email or in person.
+If you have any concerns or questions in advance, during or after the event please contact Daniel Pett ([dejp3@cam.ac.uk](mailto:dejp3@cam.ac.uk)) or Jo Vine ([jrv31@cam.ac.uk](jrv31@cam.ac.uk)) via email or in person.
