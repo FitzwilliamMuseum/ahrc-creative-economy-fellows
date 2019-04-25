@@ -9,7 +9,7 @@ created: 2019-04-04
 
 **Date: 3rd June 2019**
 
-**Location: [Judge Business School, University of Cambridge](https://www.jbs.cam.ac.uk/)**
+**Location: [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/)**
 
 **Time: 9:30am - 4:30pm**
 
@@ -31,7 +31,7 @@ This project  is generously funded by the [Arts and Humanities Research Council]
 
 Wherever possible we wish to make this event accessible and collegiate; we are committed to making reasonable accommodations to facilitate the full participation of all attendees. Please contact us with any questions or requests that will facilitate your attendance. 
 
-We will be based in the Judge Business School for the event; details regarding accessibility are available [here](https://www.jbs.cam.ac.uk/contact/access-for-people-with-disabilities/) There are no gender neutral toilets on site, venue staff encourage anyone who does not feel comfortable using the male or female facilities to use the disabled toilets. 
+We will be based in Cambridge Judge Business School for the event; details regarding accessibility are available [here](https://www.jbs.cam.ac.uk/contact/access-for-people-with-disabilities/) There are no gender neutral toilets on site, venue staff encourage anyone who does not feel comfortable using the male or female facilities to use the disabled toilets. 
 
 We encourage attendees of all ages, levels of experience/qualification, and across all disciplines. We are adopting an “opt out” policy regarding sharing scholarly activities associated with the conference. Presenters are requested to communicate any restrictions on sharing their conference activities in advance to the conference team and again during conference activities.
 
