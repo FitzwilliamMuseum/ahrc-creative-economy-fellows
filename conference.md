@@ -13,7 +13,7 @@ created: 2019-04-04
 
 **Time: 9:30am - 4:30pm**
 
-**Tickets: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums)**
+**Tickets**: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) Booking in advance essential. Contact us for any special requirements (access or dietary; we will do what we can to accomodate you.)
 
 Join the [University of Cambridge Museums](https://www.museums.cam.ac.uk/) for a one-day conference about 3D technology and tactile access to heritage collections. We’ll be exploring how 3D modelling and printing technology can be used to open up collections to everyone.
 
