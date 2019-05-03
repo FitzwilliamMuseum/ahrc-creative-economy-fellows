@@ -23,7 +23,7 @@ In April I was very grateful to The Marlay Group who provided £600 to support m
     </div>
 
   <div class="col-md-6">
-    <twitter-widget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-0" style="position: static; visibility: visible; display: block; transform: rotate(0deg); max-width: 100%; width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="1121725427104530432"></twitter-widget>
+    blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/CatrionaCooper?ref_src=twsrc%5Etfw">@CatrionaCooper</a> reminds us that other cultures prioritise and treats senses differently.  We are focusing on a <a href="https://twitter.com/hashtag/western?src=hash&amp;ref_src=twsrc%5Etfw">#western</a> prospective. perhaps we should step back and study more senses independently before we could explore different combinations and prospectives <a href="https://twitter.com/hashtag/krakcaa?src=hash&amp;ref_src=twsrc%5Etfw">#krakcaa</a> <a href="https://twitter.com/hashtag/s37?src=hash&amp;ref_src=twsrc%5Etfw">#s37</a> #037</p>&mdash; Eleonora Gandolfi (@eleonorag1) <a href="https://twitter.com/eleonorag1/status/1121725427104530432?ref_src=twsrc%5Etfw">April 26, 2019</a></blockquote>
     <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
