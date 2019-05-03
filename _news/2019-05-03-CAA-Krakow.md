@@ -12,16 +12,14 @@ author: Catriona Cooper
 author_image: catcooper.jpg
 
 ---
-
+In April I was very grateful to The Marlay Group who provided £600 to support my attendance at the [Computer Applications and Quantitative Methods in Archaeology International Conference](https://2019.caaconference.org/) in Krakow, Poland. The conference brings together academics and practitioners across a range of disciplines with interests surrounding the broad theme of computer applications in archaeology. I presented a paper in a session on Immersive Digital Media in Archaeology concerning the use of immersive acoustics to communicate archaeological narratives, drawing specifically on [Listening to the Commons](https://www.york.ac.uk/history/listening-to-the-commons/) and the Voice and Vote Exhibition, with the Co-I on my previous post-doc [Prof Damian Murphy](https://www.york.ac.uk/electronic-engineering/staff/damian_murphy/). Despite issues with light and sound in the venue the presentation went well and fitted I think into broader discussions happening across the conference on themes of sensorial engagement and how we can move away from ocularcentric interpretations and approaches (which I had weighed in on as is my perogative!).  
 <figure class="figure">
 
-<img src="/images/objects/CAAKrak1.jpg" class="img-fluid" />
+<img src="/images/objects/CAAKrak1.jpg" class="img-fluid" class="float-right" width="640" />
 
 <figcaption class="figure-caption">Krakow!</figcaption>
 
 </figure>
-
-In April I was very grateful to The Marlay Group who provided £600 to support my attendance at the [Computer Applications and Quantitative Methods in Archaeology International Conference](https://2019.caaconference.org/) in Krakow, Poland. The conference brings together academics and practitioners across a range of disciplines with interests surrounding the broad theme of computer applications in archaeology. I presented a paper in a session on Immersive Digital Media in Archaeology concerning the use of immersive acoustics to communicate archaeological narratives, drawing specifically on [Listening to the Commons] (https://www.york.ac.uk/history/listening-to-the-commons/) and the Voice and Vote Exhibition, with the Co-I on my previous post-doc [Prof Damian Murphy(https://www.york.ac.uk/electronic-engineering/staff/damian_murphy/). Despite issues with light and sound in the venue the presentation went well and fitted I think into broader discussions happening across the conference on themes of sensorial engagement and how we can move away from ocularcentric interpretations and approaches (which I had weighed in on as is my perogative!).  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/CatrionaCooper?ref_src=twsrc%5Etfw">@CatrionaCooper</a> reminds us that other cultures prioritise and treats senses differently.  We are focusing on a <a href="https://twitter.com/hashtag/western?src=hash&amp;ref_src=twsrc%5Etfw">#western</a> prospective. perhaps we should step back and study more senses independently before we could explore different combinations and prospectives <a href="https://twitter.com/hashtag/krakcaa?src=hash&amp;ref_src=twsrc%5Etfw">#krakcaa</a> <a href="https://twitter.com/hashtag/s37?src=hash&amp;ref_src=twsrc%5Etfw">#s37</a> #037</p>&mdash; Eleonora Gandolfi (@eleonorag1) <a href="https://twitter.com/eleonorag1/status/1121725427104530432?ref_src=twsrc%5Etfw">April 26, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
