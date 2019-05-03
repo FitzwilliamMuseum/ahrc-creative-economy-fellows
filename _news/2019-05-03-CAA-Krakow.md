@@ -6,15 +6,15 @@ category: news
 permalink: /news/CAA-Krakow
 date: 2019-05-02
 updated: 22019-05-02
-tags: 
-thumbnail: 
+tags: [ conferences, audio, fun ]
+thumbnail: /images/objects/CAAKrak1.jpg
 author: Catriona Cooper
 author_image: catcooper.jpg
 
 ---
 In April I was very grateful to The Marlay Group who provided £600 to support my attendance at the [Computer Applications and Quantitative Methods in Archaeology International Conference](https://2019.caaconference.org/) in Krakow, Poland. The conference brings together academics and practitioners across a range of disciplines with interests surrounding the broad theme of computer applications in archaeology. I presented a paper in a session on Immersive Digital Media in Archaeology concerning the use of immersive acoustics to communicate archaeological narratives, drawing specifically on [Listening to the Commons](https://www.york.ac.uk/history/listening-to-the-commons/) and the Voice and Vote Exhibition, with the Co-I on my previous post-doc [Prof Damian Murphy](https://www.york.ac.uk/electronic-engineering/staff/damian_murphy/). Despite issues with light and sound in the venue the presentation went well and fitted I think into broader discussions happening across the conference on themes of sensorial engagement and how we can move away from ocularcentric interpretations and approaches (which I had weighed in on as is my perogative!).  
 
-<div class="row-hack">
+<div class="row-hack mt-2">
     <div class="col-md-6">
       <figure class="figure">
         <img src="/images/objects/CAAKrak1.jpg" class="img-fluid" align="float-right" width="640">
