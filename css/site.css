@@ -238,3 +238,8 @@ label.cm-app-label {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
+figcaption.figure-caption {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
