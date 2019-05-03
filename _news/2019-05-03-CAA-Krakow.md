@@ -9,7 +9,7 @@ updated: 22019-05-02
 tags: 
 thumbnail: 
 author: Catriona Cooper
-author_image: catcooper.jpeg
+author_image: catcooper.jpg
 
 ---
 
