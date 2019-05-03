@@ -32,7 +32,7 @@ In general there was a real theme of reflection on the ethical implications of t
 
 <figure class="figure">
 
-<img src="/images/objects/CAAKrak2.jpg_large" class="img-fluid" />
+<img src="/images/objects/KrakCAA2.jpg" class="img-fluid" />
 
 <figcaption class="figure-caption">Jeremy Huggett considering the bredth of ethical concerns for archaeology</figcaption>
 
