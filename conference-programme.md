@@ -2,16 +2,22 @@
 title: "Do Not Touch? 3D in Museums - conference programme"
 layout: default
 permalink: conference-programme
-author: Jennifer Wexler
-author_image: jenniferwexler.jpeg
 created: 2019-05-15
 ---
+
+The provisional programme of speakers for our conference is detailed below.
+This is subject to change, talks will not be recorded, but live tweeting is planned
+when speakers have not opted out. An archive of tweets will be made available
+post event, and a conference review piece.
+
+Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
+[Joanne Vine](mailto:jrv31@cam.ac.uk)
 
 
 | Start time | End time | Speaker    | Title                       |
 |------------|----------|------------|-----------------------------|
 | 09:30      | 09:45    |    -       | Registration & Refreshments |
-| 09:45      | 09:55    | Luke Syson Director and Marlay Curator, Fitwilliam Museum| An introduction             |
+| 09:45      | 09:55    | Luke Syson (Director and Marlay Curator, Fitwilliam Museum) | An introduction             |
 | 09:55      | 10:05    | Daniel Pett & Joanne Vine (Fitwilliam Museum) | Digital at the UCM |
 | 10:05      | 10:10    | Helena Rodwell (Fitzwilliam Museum) | Please Do Not Touch? |
 | 10:15	     | 10:25	  | Abi L. Glen	(Fitzwilliam Museum)| Post Modern:creating a MIAB subscription service to increase access to museum objects |
@@ -52,4 +58,4 @@ created: 2019-05-15
 | 15:05	     | 15:25	  | - | Coffee/tea	| 	
 | 15:25	     | 16:20	| Panel session		Chair: Carol Ann Scott Discussants: Miranda Stearn,Simone Schnall, Helen Strudwick, TBC * 3 |	A panel discussion/round table on how 3D can shape our experiences in museums. |
 | 16:20	    | 16:30	    | Daniel Pett | Summing up the day |
-{: .table .table-dark .table-responsive .table-striped }
+{: .table  .table-responsive .table-striped }
