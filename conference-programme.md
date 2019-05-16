@@ -58,4 +58,4 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 15:05	     | 15:25	  | - | Coffee/tea	| 	
 | 15:25	     | 16:20	| Panel session		Chair: Carol Ann Scott Discussants: Miranda Stearn,Simone Schnall, Helen Strudwick, TBC * 3 |	A panel discussion/round table on how 3D can shape our experiences in museums. |
 | 16:20	    | 16:30	    | Daniel Pett | Summing up the day |
-{: .table  .table-responsive .table-striped }
+{: .table  .table-responsive .table-striped .table-hover .table-bordered }
