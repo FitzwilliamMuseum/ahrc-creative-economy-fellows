@@ -13,7 +13,7 @@ created: '2019-04-04'
 
 **Time: 9:30am - 4:30pm**
 
-**Tickets**: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) Booking in advance essential. Contact us for any special requirements (access or dietary; we will do what we can to accomodate you.)
+**Tickets**: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) Booking in advance essential. Contact us for any special requirements (access or dietary; we will do what we can to accommodate you.)
 
 A [provisional programme](https://creative-economy.fitzmuseum.cam.ac.uk/conference-programme) is now available.
 
