@@ -1,7 +1,7 @@
 ---
 title: "Do Not Touch? 3D in Museums - conference programme"
 layout: default
-permalink: conference-programme
+permalink: /conference-programme
 created: 2019-05-15
 ---
 
