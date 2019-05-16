@@ -47,21 +47,22 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | **12:45 - 13:30 Lunch, including pop ups and demos** |
 | **13:30 - 15:05 Short Presentations batch two - 5 mins per speaker**  |
 | 13:30	     | 13:35	  | Susanne Turner (Museum of Classical Archaeology)	| Live tour of the Museum of Classical Archaeology (video link) |
-| 13:35	     | 13:50		| Anaïs Aguerre	(Culture Connect)| ReACH - Reproduction of Art and Heritage |
-| 13:50	     | 13:55	  |	Madeline Robison (University of Sydney)	| TBC |
-| 13:55	     | 14:00		| Alix Thoeming	(University of Sydney)	| TBC |
-| 14:00	     | 14:05		| Donal Cooper (University of Cambridge)	| Virtual Florence: Bringing a 3D church into the National Gallery |
-| 14:05	     | 14:10		|	Simone Parisotto	| Unveiling the invisible: a mathematical touch to challenges in Cultural Heritage |
-| 14:10	     | 14:15		| Amy Scott-Murray	| Multi-scale surface scanning at the Natural History Museum |
-| 14:15	     | 14:20		| Lee Robert McStein | Animal Mummies - the inside and outside story |
-| 14:20	     | 14:25		|	Rafie Cecilia	(University College London) | Meaning-making and 3D prints in museums: how do visitors use 3D prints to produce knowledge? |
-| 14:25	     | 14:30		|	George Cooper	| Publishing 3D research outputs in heritage and conservation: a Routledge/Sketchfab partnership |
-| 14:30	     | 14:35			 | Kasia Targonska-Hadzibabic	| Unveiling the invisible: a closer look. A mathematical touch to challenges in Cultural Heritage  |
-| 14:35	     | 14:40		| Ian Dawson	| Objects as Curriculum- Blackfoot bundles and messy assemblages|
-| 14:40	     | 14:45		| Nicky van de Beek	| Recreating the tomb of Hetepherakhty: from pyramid age to digital age |
-| 14:45	     | 14:50		| Fiona McKendrick (University of Oxford)	| Studying users: How to assess the suitability and success of 3D technology in your museum |
-| 14:50	     | 14:55		| Ronald Haynes	(University of Cambridge)| To Have & Vehold: AR/VR/XR Blending & Extending of Museum Collections |
-14.55	       | 15:00		| Amanda Ford Spora	(University College London)| Teens, Replicas and Realness of ancient Egypt |
+| 13:35	     | 13:40		| Anaïs Aguerre	(Culture Connect)| ReACH - Reproduction of Art and Heritage |
+| 13:40	     | 13:45	  |	Madeline Robison (University of Sydney)	| TBC |
+| 13:45	     | 13:50		| Alix Thoeming	(University of Sydney)	| TBC |
+| 13:50	     | 13:55		| Donal Cooper (University of Cambridge)	| Virtual Florence: Bringing a 3D church into the National Gallery |
+| 13:55	     | 14:00		|	Simone Parisotto	| Unveiling the invisible: a mathematical touch to challenges in Cultural Heritage |
+| 14:00	     | 14:05		| Amy Scott-Murray	| Multi-scale surface scanning at the Natural History Museum |
+| 14:05	     | 14:10		| Lee Robert McStein | Animal Mummies - the inside and outside story |
+| 14:10	     | 14:15		|	Rafie Cecilia	(University College London) | Meaning-making and 3D prints in museums: how do visitors use 3D prints to produce knowledge? |
+| 14:15	     | 14:20		|	George Cooper	| Publishing 3D research outputs in heritage and conservation: a Routledge/Sketchfab partnership |
+| 14:20	     | 14:25			 | Kasia Targonska-Hadzibabic	| Unveiling the invisible: a closer look. A mathematical touch to challenges in Cultural Heritage  |
+| 14:25	     | 14:30		| Ian Dawson	| Objects as Curriculum- Blackfoot bundles and messy assemblages|
+| 14:30	     | 14:35		| Nicky van de Beek	| Recreating the tomb of Hetepherakhty: from pyramid age to digital age |
+| 14:35	     | 14:40		| Fiona McKendrick (University of Oxford)	| Studying users: How to assess the suitability and success of 3D technology in your museum |
+| 14:40	     | 14:45		| Ronald Haynes	(University of Cambridge)| To Have & Vehold: AR/VR/XR Blending & Extending of Museum Collections |
+| 14.45	       | 14:50		| Amanda Ford Spora	(University College London)| Teens, Replicas and Realness of ancient Egypt |
+| 14:50      | 14:55 | Lisa Galvin (Victoria & ALbert Museum) | 3D Prints and SEN Museum |
 | **15:05 - 15:25 Coffee/tea**	| 	
 | 15:25	     | 16:20	| Panel session		Chair: Carol Ann Scott Discussants: Miranda Stearn,Simone Schnall, Helen Strudwick, TBC * 3 |	A panel discussion/round table on how 3D can shape our experiences in museums. |
 | 16:20	    | 16:30	    | Daniel Pett | Summing up the day |
