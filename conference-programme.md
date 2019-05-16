@@ -10,7 +10,7 @@ This is subject to change, talks will not be recorded, but live tweeting is plan
 when speakers have not opted out. An archive of tweets will be made available
 post event, and a conference review piece.
 
-[Tickets](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) priced at £5 for concessions and £15 full price are available. 
+[Tickets](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) priced at £5 for concessions and £15 full price are available.
 
 Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 [Joanne Vine](mailto:jrv31@cam.ac.uk)
@@ -56,7 +56,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 14:15	     | 14:20		| Lee Robert McStein | Animal Mummies - the inside and outside story |
 | 14:20	     | 14:25		|	Rafie Cecilia	(University College London) | Meaning-making and 3D prints in museums: how do visitors use 3D prints to produce knowledge? |
 | 14:25	     | 14:30		|	George Cooper	| Publishing 3D research outputs in heritage and conservation: a Routledge/Sketchfab partnership |
-| 14:30	     | 14:35			 | Kasia Targonska-Hadzibabic	| TBC |
+| 14:30	     | 14:35			 | Kasia Targonska-Hadzibabic	| Unveiling the invisible: a closer look. A mathematical touch to challenges in Cultural Heritage  |
 | 14:35	     | 14:40		| Ian Dawson	| Objects as Curriculum- Blackfoot bundles and messy assemblages|
 | 14:40	     | 14:45		| Nicky van de Beek	| Recreating the tomb of Hetepherakhty: from pyramid age to digital age |
 | 14:45	     | 14:50		| Fiona McKendrick (University of Oxford)	| Studying users: How to assess the suitability and success of 3D technology in your museum |
