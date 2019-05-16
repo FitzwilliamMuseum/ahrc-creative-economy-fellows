@@ -4,7 +4,7 @@ layout: default
 permalink: /conference
 author: Jennifer Wexler
 author_image: jenniferwexler.jpeg
-created: 2019-04-04
+created: '2019-04-04'
 ---
 
 **Date: 3rd June 2019**
