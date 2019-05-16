@@ -10,15 +10,15 @@ created: '2019-05-15'
 
 **Time: 9:30am - 4:30pm**
 
-**Tickets**: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) Booking in advance essential. Contact us for any special requirements (access or dietary; we will do what we can to accommodate you.)
+**Tickets**: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums)
+Booking in advance essential. Contact us for any special requirements (access or dietary; we will do what we can to accommodate you.)
 
 The provisional programme of speakers for our conference is detailed below.
 This is subject to change, talks will not be recorded, but live tweeting is planned
 when speakers have not opted out. An archive of tweets will be made available
 post event, and a conference review piece.
 
-[Tickets](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) priced at £5 for concessions and £15 full price are available.
-
+[T
 Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 [Joanne Vine](mailto:jrv31@cam.ac.uk)
 
