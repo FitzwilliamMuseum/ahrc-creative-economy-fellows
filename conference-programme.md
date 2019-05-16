@@ -10,6 +10,8 @@ This is subject to change, talks will not be recorded, but live tweeting is plan
 when speakers have not opted out. An archive of tweets will be made available
 post event, and a conference review piece.
 
+[Tickets](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) priced at £5 for concessions and £15 full price are available. 
+
 Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 [Joanne Vine](mailto:jrv31@cam.ac.uk)
 
