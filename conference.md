@@ -1,7 +1,7 @@
 ---
 title: "Do Not Touch? 3D in Museums"
 layout: default
-permalink: conference
+permalink: /conference
 author: Jennifer Wexler
 author_image: jenniferwexler.jpeg
 created: 2019-04-04
