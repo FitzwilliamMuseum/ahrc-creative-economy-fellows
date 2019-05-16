@@ -15,6 +15,8 @@ created: 2019-04-04
 
 **Tickets**: [£15 waged/£5 non-waged](https://onlinesales.admin.cam.ac.uk/conferences-and-events/fitzwilliam-museum/do-not-touch-3d-in-museums/do-not-touch-3d-in-museums) Booking in advance essential. Contact us for any special requirements (access or dietary; we will do what we can to accomodate you.)
 
+A [provisional programme](https://creative-economy.fitzmuseum.cam.ac.uk/conference-programme) is now available.
+
 Join the [University of Cambridge Museums](https://www.museums.cam.ac.uk/) for a one-day conference about 3D technology and tactile access to heritage collections. We’ll be exploring how 3D modelling and printing technology can be used to open up collections to everyone.
 
 The aim is to bring together people from the heritage sector – including conservators, curators, educators and digital specialists – with university researchers and representatives from the creative and digital industries, exploring how 3D modelling and printing technology can be utilised effectively to open up collections to everyone.
@@ -27,11 +29,11 @@ Speakers will specialise in 3D technologies, conservation, learning, outreach an
 
 The conference is co-organised by the [CEEF](https://creative-economy.fitzmuseum.cam.ac.uk/) and [Do Not Touch](https://do-not-touch.fitzmuseum.cam.ac.uk/) Projects, in collaboration with the [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk) and our two industrial collaborators - [Museum in a Box](/partners/museuminabox/) and [ThinkSee3D](/partners/thinksee3d/).
 
-This project  is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC) and grant from the University of Cambridge Knowledge Transfer Facilitator pump priming fund. 
+This project  is generously funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) (AHRC) and grant from the University of Cambridge Knowledge Transfer Facilitator pump priming fund.
 
-Wherever possible we wish to make this event accessible and collegiate; we are committed to making reasonable accommodations to facilitate the full participation of all attendees. Please contact us with any questions or requests that will facilitate your attendance. 
+Wherever possible we wish to make this event accessible and collegiate; we are committed to making reasonable accommodations to facilitate the full participation of all attendees. Please contact us with any questions or requests that will facilitate your attendance.
 
-We will be based in Cambridge Judge Business School for the event; details regarding accessibility are available [here](https://www.jbs.cam.ac.uk/contact/access-for-people-with-disabilities/) There are no gender neutral toilets on site, venue staff encourage anyone who does not feel comfortable using the male or female facilities to use the disabled toilets. 
+We will be based in Cambridge Judge Business School for the event; details regarding accessibility are available [here](https://www.jbs.cam.ac.uk/contact/access-for-people-with-disabilities/) There are no gender neutral toilets on site, venue staff encourage anyone who does not feel comfortable using the male or female facilities to use the disabled toilets.
 
 We encourage attendees of all ages, levels of experience/qualification, and across all disciplines. We are adopting an “opt out” policy regarding sharing scholarly activities associated with the conference. Presenters are requested to communicate any restrictions on sharing their conference activities in advance to the conference team and again during conference activities.
 
