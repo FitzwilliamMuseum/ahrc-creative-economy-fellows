@@ -41,7 +41,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 11:35	     | 11:45		| George Oates (Museum in a Box) | Museum in a Box: A 21st Century Handling Collection |
 | 11:45	     | 11:55	  | Daniel Pett (Moderator) | Questions		|
 | **11:55 - 12:45 Short Presentations batch one - 5 mins per speaker**  |
-| 11:55	     | 12:00	  | Paola Ricciardi	(Fitzwilliam Museum, University of Cambridge)| The #Fitz3D Challenge – Making meaning: how creative can you be |
+| 11:55	     | 12:00	  | Paola Ricciardi	(Fitzwilliam Museum, University of Cambridge)| The #Fitz3D Challenge – Making meaning: how creative can you be? |
 | 12:00	     | 12:05		| Liz Pye	(University College London)| Selective Touch |
 | 12:05	     | 12:10		| Helen Strudwick & Julie Dawson (Fitzwilliam Museum)	| Understanding ancient Egyptian coffins using CT |
 | 12:10	     | 12:15		| Anastasia Christophilopoulou (Fitzwilliam Museum, University of Cambridge)	| Sensory approaches to material culture: theories and reality of the imagined sensorially-engaged Museum. |
