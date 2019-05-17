@@ -70,7 +70,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 14:40	     | 14:45		| Ronald Haynes	(University Information Services, University of Cambridge)| To Have & Vehold: AR/VR/XR Blending & Extending of Museum Collections |
 | 14.45	       | 14:50		| Amanda Ford Spora	(University College London)| Teens, Replicas and Realness of ancient Egypt |
 | 14:50      | 14:55 | Elizabeth Galvin (Victoria & Albert Museum) | 3D Prints and SEN Museum Learning |
-| 14:55      | 15:00 | Dave Fletcher (PlayStation) | Guerilla scanning the British Museum |
+| 14:55      | 15:00 | Dave Fletcher (PlayStation) | Guerrilla scanning the British Museum |
 | **15:05 - 15:25 Coffee/tea**	| 	
 | 15:25	     | 16:20	| Panel session		Chair: Carol Ann Scott (Museum Consultant) Discussants: Miranda Stearn/Kate Noble (Learning Department, Fitzwilliam Museum, University of Cambridge), Simone Schnall (Department of Psychology, University of Cambridge), Helen Strudwick (Associate Curator, Egyptian Antiquities, Fitzwilliam Museum) and Alastair Dunnet (Outreach Officer and Committee Member, Fenland Archaeological Society) |	A panel discussion/round table on how 3D can shape our experiences in museums. |
 | 16:20	    | 16:30	    | Daniel Pett | Summing up the day |
