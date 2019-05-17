@@ -49,7 +49,8 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 12:20	     | 12:25		| Paola Di Giuseppantonio Di Franco	(University of Essex)| The social value of touching 3D printed replicas of artefacts inside museums. |
 | 12:25	     | 12:30    |	Abira Hussein (Nomad Project)	| Nomad: Reconnecting Somali Heritage |
 | 12:30	     | 12:35		| Orietta Da Rold	(Faculty of English, University of Cambridge)| Touching/experiencing medieval books/paper |
-| 12.35      | 12.40		| Lorna Richardson (University of East Anglia)|	Digital Ethics in Heritage |
+| 12:35      | 12:40		| Lorna Richardson (University of East Anglia)|	Digital Ethics in Heritage |
+| 12:40      | 12.45    | Adrian Evans (University of Bradford) | From interactive and virtual museum exhibits to refugee camps: an experience of digital heritage GCRF work in Jordan |
 | **12:45 - 13:30 Lunch, including pop ups and demos** |
 | **13:30 - 15:05 Short Presentations batch two - 5 mins per speaker**  |
 | 13:30	     | 13:35	  | Susanne Turner (Museum of Classical Archaeology, University of Cambridge)	| Live tour of the Museum of Classical Archaeology (video link) |
