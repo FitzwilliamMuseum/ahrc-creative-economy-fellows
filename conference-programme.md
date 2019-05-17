@@ -26,8 +26,8 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 |------------|----------|------------|-----------------------------|
 | 09:30      | 09:45    |    -       | Registration & Refreshments |
 | **09:45 - 10:15 Welcome and introductions** |
-| 09:45      | 09:55    | Luke Syson (Director and Marlay Curator, Fitwilliam Museum, University of Cambridge) | Introduction to the Fitzwilliam Museum             |
-| 09:55      | 10:05    | Daniel Pett & Joanne Vine (Fitwilliam Museum, University of Cambridge) | Digital at the University of Cambridge Museums (UCM) |
+| 09:45      | 09:55    | Luke Syson (Director and Marlay Curator, Fitzwilliam Museum, University of Cambridge) | Introduction to the Fitzwilliam Museum             |
+| 09:55      | 10:05    | Daniel Pett & Joanne Vine (Fitzwilliam Museum, University of Cambridge) | Digital at the University of Cambridge Museums (UCM) |
 | 10:05      | 10:10    | Helena Rodwell (Fitzwilliam Museum, University of Cambridge) | Please Do Not Touch? |
 | **10:15 - 11:05 Arts and Humanities Research Council (AHRC) Creative Economy Engagement Fellows**|
 | 10:15	     | 10:25	  | Abi L. Glen	(Fitzwilliam Museum, University of Cambridge)| Post Modern:creating a Museum In A Box subscription service to increase access to museum objects |
