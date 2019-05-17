@@ -64,7 +64,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 14:15	     | 14:20		|	George Cooper (Taylor & Francis)	| Publishing 3D research outputs in heritage and conservation: a Routledge/Sketchfab partnership |
 | 14:20	     | 14:25			 | Kasia Targonska-Hadzibabic	(Department of Applied Mathematics & Theoretical Physics) | Unveiling the invisible: a closer look. A mathematical touch to challenges in Cultural Heritage  |
 | 14:25	     | 14:30		| Ian Dawson (Winchester School of Art)	| Objects as Curriculum- Blackfoot bundles and messy assemblages|
-| 14:30	     | 14:35		| Nicky van de Beek	| Recreating the tomb of Hetepherakhty: from pyramid age to digital age |
+| 14:30	     | 14:35		| Nicky van de Beek	(Leiden University)| Recreating the tomb of Hetepherakhty: from pyramid age to digital age |
 | 14:35	     | 14:40		| Fiona McKendrick (Institute for Digital Archaeology)	| Studying users: How to assess the suitability and success of 3D technology in your museum |
 | 14:40	     | 14:45		| Ronald Haynes	(University Information Services, University of Cambridge)| To Have & Vehold: AR/VR/XR Blending & Extending of Museum Collections |
 | 14.45	       | 14:50		| Amanda Ford Spora	(University College London)| Teens, Replicas and Realness of ancient Egypt |
