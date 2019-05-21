@@ -45,7 +45,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 12:00	     | 12:05		| Liz Pye	(University College London)| Selective Touch |
 | 12:05	     | 12:10		| Helen Strudwick & Julie Dawson (Fitzwilliam Museum)	| Understanding ancient Egyptian coffins using CT |
 | 12:10	     | 12:15		| Anastasia Christophilopoulou (Fitzwilliam Museum, University of Cambridge)	| Sensory approaches to material culture: theories and reality of the imagined sensorially-engaged Museum. |
-| 12:15	     | 12:20		|	Jacqui Strawbridge (Fitzwilliam Museum, University of Cambridge)	| A Touching Experience |
+| 12:15	     | 12:20		|	Miranda Stearn (Fitzwilliam Museum, University of Cambridge)	| Making connections through touch: tactile experiences within learning and inclusion programmes |
 | 12:20	     | 12:25		| Paola Di Giuseppantonio Di Franco	(University of Essex)| The social value of touching 3D printed replicas of artefacts inside museums. |
 | 12:25	     | 12:30    |	Abira Hussein (Nomad Project)	| Nomad: Reconnecting Somali Heritage |
 | 12:30	     | 12:35		| Orietta Da Rold	(Faculty of English, University of Cambridge)| Touching/experiencing medieval books/paper |
