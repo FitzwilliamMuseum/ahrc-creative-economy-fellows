@@ -73,6 +73,6 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 14:55      | 15:00 | Dave Fletcher (PlayStation) | Guerrilla scanning the British Museum |
 |15:00       | 15:05 | Maciej Pawlikowski (Cambridge University Library) | You can touch it: The short story of a stray Sumerian tablet |
 | **15:10 - 15:30 Coffee/tea**	| 	
-| 15:30	     | 16:20	| Panel session		Chair: Carol Ann Scott (Museum Consultant) Discussants: Miranda Stearn/Kate Noble (Learning Department, Fitzwilliam Museum, University of Cambridge), Simone Schnall (Department of Psychology, University of Cambridge), Helen Strudwick (Associate Curator, Egyptian Antiquities, Fitzwilliam Museum) and Alastair Dunnet (Outreach Officer and Committee Member, Fenland Archaeological Society) |	A panel discussion/round table on how 3D can shape our experiences in museums. |
+| 15:30	     | 16:20	| Panel session		Chair: Carol Ann Scott (Museum Consultant) Discussants: Miranda Stearn (Head of Learning, Fitzwilliam Museum, University of Cambridge), Simone Schnall (Department of Psychology, University of Cambridge), Helen Strudwick (Associate Curator, Egyptian Antiquities, Fitzwilliam Museum) and Alastair Dunnet (Outreach Officer and Committee Member, Fenland Archaeological Society) |	A panel discussion/round table on how 3D can shape our experiences in museums. |
 | 16:20	    | 16:30	    | Daniel Pett | Summing up the day |
 {: .table  .table-responsive .table-striped .table-hover .table-bordered }
