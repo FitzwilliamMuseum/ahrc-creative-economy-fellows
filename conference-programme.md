@@ -61,7 +61,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | 13:55	     | 14:00		|	Simone Parisotto (Department of Applied Mathematics and Theoretical Physics/Fitzwilliam Museum, University of Cambridge	| Unveiling the invisible: a mathematical touch to challenges in Cultural Heritage |
 | 14:00	     | 14:05		| Amy Scott-Murray	(Natural History Museum) | Multi-scale surface scanning at the Natural History Museum |
 | 14:05	     | 14:10		| Lee Robert McStein (Monument Men) | Animal Mummies - the inside and outside story |
-| 14:10	     | 14:15		|	Rafie Cecilia	(University College London) | Meaning-making and 3D prints in museums: how do visitors use 3D prints to produce knowledge? |
+| 14:10	     | 14:15		|	Rafie Cecilia	(University College London) | Meaning-making and 3D prints in museums: how do visually impaired visitors use 3D prints to produce knowledge? |
 | 14:15	     | 14:20		|	George Cooper (Taylor & Francis)	| Publishing 3D research outputs in heritage and conservation: a Routledge/Sketchfab partnership |
 | 14:20	     | 14:25			 | Kasia Targonska-Hadzibabic	(Department of Applied Mathematics & Theoretical Physics) | Unveiling the invisible: a closer look. A mathematical touch to challenges in Cultural Heritage  |
 | 14:25	     | 14:30		| Ian Dawson (Winchester School of Art)	| Objects as Curriculum- Blackfoot bundles and messy assemblages|
