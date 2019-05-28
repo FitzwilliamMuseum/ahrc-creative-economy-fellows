@@ -54,7 +54,7 @@ Any questions please contact [Daniel Pett](mailto:dejp3@cam.ac.uk) or
 | **12:45 - 13:30 Lunch, including pop ups and demos** |
 | **13:30 - 15:05 Short Presentations batch two - 5 mins per speaker**  |
 | 13:30	     | 13:35	  | Susanne Turner (Museum of Classical Archaeology, University of Cambridge)	| Live tour of the Museum of Classical Archaeology (video link) |
-| 13:35	     | 13:40		| Madeline Robison (University of Sydney) | TBC |
+| 13:35	     | 13:40		| Madeline Robison (University of Sydney) |  The Mummy Immortal: An Exercise in 3D Preservation |
 | 13:40	     | 13:45	  |	Alix Thoeming	(University of Sydney) 	| TBC |
 | 13:45	     | 13:50		| Anaïs Aguerre	(Culture Connect)	| ReACH - Reproduction of Art and Heritage |
 | 13:50	     | 13:55		| Donal Cooper (Department of History of Art, University of Cambridge)	| Virtual Florence: Bringing a 3D church into the National Gallery |
