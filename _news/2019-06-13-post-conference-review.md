@@ -11,6 +11,8 @@ author_image: VineJoanne.jpg
 ---
 Over our next few blog posts we will capture the main areas of discussion from the University of Cambridge Museums conference Do Not Touch? 3D in Museums held on Monday 3 June at the Judge Business School in Cambridge. We were delighted to be joined by over 90 delegates. Nearly 40 speakers ensured that we had some invigorating discussions that spanned many disciplines (from physics to education and mathematics to English), collections (ancient Egypt to natural history) and organisations (universities, industrial collaborators, museums and heritage sector organisations). We’re really grateful to them all for coming to the event and providing such incisive insights.
 
+![Blue sky](/images/conference/window.jpg){: .img-fluid float-right}
+
 Luke Syson, Director of the Fitzwilliam Museum, opened the conference. He emphasised the importance of digital technologies to the Fitzwilliam and wider University of Cambridge Museums consortium. Reflecting on his time so far at the Museum, he emphasised how the Fitzwilliam is in the ideal position to both interact with the research community and provide engaging experiences for diverse audiences.
 
 He also spoke about how digital technologies – including 3D printing – might enable us to offer safe and responsible ways of interacting with museum collections.
