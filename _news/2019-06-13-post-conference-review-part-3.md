@@ -7,6 +7,7 @@ permalink: /news/post-conference-part-3
 date: 2019-06-13
 tags: [ conferences, round-up]
 author_image: Abi_L.jpeg
+thumbnail: /images/conference/steve.jpg
 ---
 George Braques seems to have been a rare combination of mad and boring, but he had a few pithy quotes I like to return to; one is:
 
