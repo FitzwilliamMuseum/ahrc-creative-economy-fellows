@@ -7,6 +7,7 @@ permalink: /news/post-conference-part-4
 date: 2019-06-17
 tags: [ conferences, round-up]
 author_image: jenniferwexler.jpeg
+thumbnail: /images/conference/evil.jpg
 ---
 
 Next up, we moved onto our first session of short 5 minute presentations. We were very lucky to have an incredible range of fascinating projects featured during this session!  Many of these papers focused on key themes and ideas that we were trying to look at during the conference, including:
