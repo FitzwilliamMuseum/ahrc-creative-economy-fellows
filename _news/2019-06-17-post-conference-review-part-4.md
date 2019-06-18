@@ -21,14 +21,13 @@ How can we differentiate between what can or can’t be touched in gallery space
 
 First we had Paola Ricciardi presenting on the [#Fitz3DChallenge](https://www.fitzmuseum.cam.ac.uk/fitz3d-challenge-making-meaning-how-creative-can-you-be).
 
-<img src="/images/conference/PaolaRicciardi1.JPG" alt="Paola" title="Paola Ricciardi presenting" width="370" height="430" /> <img src="/images/conference/PaolaRicciardi2.JPG" alt="3D Models" title="Fitz3DChallenge" width="370" height="430" />
+<img src="/images/conference/PaolaRicciardi1.JPG" alt="Paola" title="Paola Ricciardi presenting" width="370" height="450" /> <img src="/images/conference/PaolaRicciardi2.JPG" alt="3D Models" title="Fitz3DChallenge" width="370" height="450" />
 
 This project invited makers from around the world to reinvent medieval wooden sculptures from the Fitzwilliam’s collection. Using 3D scans available online, makers were free to reinvent shape, colour, function and context in a quest to explore new meanings. These were exhibited in the Fitzwilliam in May 2018, showing how creativity can help us re-imagine and re-interpret these artworks for the 21st century. Do these new creations inspire a new way of thinking about art? Do they help visitors engage with the sculptures in a different way?
 
 Next up, we had Liz Pye from the [Institute of Archaeology, UCL](https://www.ucl.ac.uk/archaeology/) presenting on her research into conservation and tactile experiences with cultural objects.
 
-![Liz Pye speaking](/images/conference/LizPye.JPG){: .img-fluid }
-<img src="/images/conference/LizPye.JPG" alt="Liz" title="Liz Pye speaking" width="450" height="500" />
+<img src="/images/conference/LizPye.JPG" alt="Liz" title="Liz Pye speaking" width="550" height="550" />
 
 She suggested that 'selective touch' and controlled handling of cultural heritage collections can provide important tactile experiences for better understanding of objects. Digital objects & replicas have a role to play in enhancing these experiences too.
 
