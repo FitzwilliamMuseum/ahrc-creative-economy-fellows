@@ -22,7 +22,7 @@ How can we differentiate between what can or can’t be touched in gallery space
 
 First we had Paola Ricciardi presenting on the [#Fitz3DChallenge](https://www.fitzmuseum.cam.ac.uk/fitz3d-challenge-making-meaning-how-creative-can-you-be).
 
-<img src="/images/conference/PaolaRicciardi1.JPG" alt="Paola" title="Paola Ricciardi presenting" width="370" height="450" /> <img src="/images/conference/PaolaRicciardi2.JPG" alt="3D Models" title="Fitz3DChallenge" width="370" height="450" />
+<img src="/images/conference/PaolaRicciardi1.JPG" alt="Paola" title="Paola Ricciardi presenting" width="370" height="450" class="img-fluid"/> <img src="/images/conference/PaolaRicciardi2.JPG" alt="3D Models" title="Fitz3DChallenge" width="370" height="450"  class="img-fluid"/>
 
 This project invited makers from around the world to reinvent medieval wooden sculptures from the Fitzwilliam’s collection. Using 3D scans available online, makers were free to reinvent shape, colour, function and context in a quest to explore new meanings. These were exhibited in the Fitzwilliam in May 2018, showing how creativity can help us re-imagine and re-interpret these artworks for the 21st century. Do these new creations inspire a new way of thinking about art? Do they help visitors engage with the sculptures in a different way?
 
