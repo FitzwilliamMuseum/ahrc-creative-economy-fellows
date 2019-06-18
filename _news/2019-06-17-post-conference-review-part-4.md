@@ -34,7 +34,7 @@ She suggested that 'selective touch' and controlled handling of cultural heritag
 
 Helen Strudwick ([@hmstrudwick](https://twitter.com/hmstrudwick)) & Julie Dawson from the Fitzwilliam presented on their research using high-resolution CT data to investigate the construction of ancient Egyptian coffins.
 
-<img src="/images/conference/HelenJulie1.JPG" alt="HelenJulia" title="Helen and Julie presenting" width="370" height="450" /> <img src="/images/conference/HelenJulie2.jpg" alt="CT Scans" title="CT Coffins Scans" width="370" height="450" />
+<img src="/images/conference/HelenJulie1.JPG" alt="HelenJulia" title="Helen and Julie presenting" width="370" height="450" class="img-fluid"/> <img src="/images/conference/HelenJulie2.jpg" alt="CT Scans" title="CT Coffins Scans" width="370" height="450" class="img-fluid"/>
 
 By using this advanced scientific imaging and non-invasive heritage science techniques, they have been able to produce a new holistic understanding of not just the ancient Egyptian coffins but also the people who were buried in them and the artisans and craftsmen who made them. More information can be found on the [project’s website](https://egyptiancoffins.org/).
 
