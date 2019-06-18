@@ -28,7 +28,7 @@ This project invited makers from around the world to reinvent medieval wooden sc
 
 Next up, we had Liz Pye from the [Institute of Archaeology, UCL](https://www.ucl.ac.uk/archaeology/) presenting on her research into conservation and tactile experiences with cultural objects.
 
-<img src="/images/conference/LizPye.JPG" alt="Liz" title="Liz Pye speaking" width="450" height="550" align="center" />
+<img src="/images/conference/LizPye.JPG" alt="Liz" title="Liz Pye speaking" width="450" height="550" class="img-fluid" />
 
 She suggested that 'selective touch' and controlled handling of cultural heritage collections can provide important tactile experiences for better understanding of objects. Digital objects & replicas have a role to play in enhancing these experiences too.
 
@@ -40,44 +40,44 @@ By using this advanced scientific imaging and non-invasive heritage science tech
 
 Anastasia Christophilopoulou ([@AChristophilop1](https://twitter.com/AChristophilop1)) from the Fitzwilliam then looked at the theories and reality of the imagined sensorially-engaged museum.
 
-<img src="/images/conference/Anastasia1.JPG" alt="Anastasia" title="Anastasia speaking" width="370" height="450" /> <img src="/images/conference/Anastasia2.JPG" alt="Tactile" title="Tactile Disciplines" width="370" height="450" />
+<img src="/images/conference/Anastasia1.JPG" alt="Anastasia" title="Anastasia speaking" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Anastasia2.JPG" alt="Tactile" title="Tactile Disciplines" width="370" height="450" class="img-fluid" />
 
 How can these approaches work in reality, and what role do our own cultural biases play? How can we integrate multi-disciplinary methodologies in order to create more meaningful sensorial experiences of museum collections?
 
 Miranda Stearn ([@MirandaStearn](https://twitter.com/MirandaStearn)), Head of Learning at the Fitzwilliam, next spoke on UCM’s central remit to facilitate inspiring and innovative encounters between audiences and collections, informed by cutting-edge research.
 
-<img src="/images/conference/Miranda1.JPG" alt="Miranda" title="Miranda speaking" width="370" height="450" /> <img src="/images/conference/Miranda2.JPG" alt="Hospitals" title="Handling in Hospitals" width="370" height="450" />
-<img src="/images/conference/Miranda3.JPG" alt="Touch" title="Touch Findings" width="450" height="550" align="center" />
+<img src="/images/conference/Miranda1.JPG" alt="Miranda" title="Miranda speaking" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Miranda2.JPG" alt="Hospitals" title="Handling in Hospitals" width="370" height="450" class="img-fluid" />
+<img src="/images/conference/Miranda3.JPG" alt="Touch" title="Touch Findings" width="450" height="550" align="center" class="img-fluid" />
 
 She outlined programmes they have developed in order to create learning experiences through handling sessions both inside the Fitzwilliam museum as well as externally in the greater community. In Particular, she focused on the emotional impact of touch and tactile experiences, highlighting the impact of bringing objects to patients in hospitals.
 
 Next up, we had Abira Hussein ([@AbiraHussein](https://twitter.com/AbiraHussein)) discussing her awesome [Nomad Project](https://nomad-project.co.uk/)!
 
-<img src="/images/conference/Abira1.JPG" alt="Abira" title="Abira presenting" width="370" height="450" /> <img src="/images/conference/Abira2.JPG" alt="Somali" title="Somali Diaspora" width="370" height="450" />
+<img src="/images/conference/Abira1.JPG" alt="Abira" title="Abira presenting" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Abira2.JPG" alt="Somali" title="Somali Diaspora" width="370" height="450" class="img-fluid" />
 
 Abira’s project uses crowd-sourced archives and digitised objects to look at different ways of combining the experiences of the Somali diaspora and communities in Somalia, and presenting heritage and narrative - what does this mean for the community?
 
-<img src="/images/conference/Abira3.JPG" alt="Surrogates" title="Digital Surrogates" width="370" height="450" /> <img src="/images/conference/Abira4.JPG" alt="Workflow" title="Project Workflow" width="370" height="450" />
+<img src="/images/conference/Abira3.JPG" alt="Surrogates" title="Digital Surrogates" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Abira4.JPG" alt="Workflow" title="Project Workflow" width="370" height="450" class="img-fluid" />
 
 How can we create safe spaces, digital literacy, ensure workshops are open, and keep the archives sustainable? Abira makes excellent points that the digital process is to provide the end product and not the aim in itself.
 
-<img src="/images/conference/Abira5.JPG" alt="Activisim" title="Archiving as Activisim" width="450" height="550" align="center" />
+<img src="/images/conference/Abira5.JPG" alt="Activisim" title="Archiving as Activisim" width="450" height="550" align="center" class="img-fluid" />
 
 How can digital archives be activist? I love Abira's focus on community-powered archives to create new understandings and close digital divides – something we can all strive to achieve!
 
 More exciting Cambridge research was presented by Orietta Da Rold ([@orietta_darold](https://twitter.com/orietta_darold)), on experiencing medieval books and paper, touch, feel, authenticity.
 
-<img src="/images/conference/OriettaDaRold.JPG" alt="Orietta Da Rold " title="Orietta Da Rold presenting" width="450" height="550" align="center" />
+<img src="/images/conference/OriettaDaRold.JPG" alt="Orietta Da Rold " title="Orietta Da Rold presenting" width="450" height="550" align="center" class="img-fluid" />
 
 How can we get people to better understand medieval paper through touching & experiencing paper? The variety and types of medieval paper can seem bafflingly to non-experts, but Orietta rightly points out that the modern and medieval interactions with paper are basically the same, but how do we communicate this to audiences? Communicating feeling & knowledge of the different ways it was made and used can enhance research and understanding.
 
 Last presentation for this session, we had Lorna Richardson (@lornarichardson) from [UEA DH](link: )https://www.uea.ac.uk/arts-humanities/digital-humanities) looking at ethics in digital heritage.
 
-<img src="/images/conference/Lorna1.JPG" alt="Lorna" title="Lorna presenting" width="370" height="450" /> <img src="/images/conference/Lorna2.JPG" alt="Google" title="Dont Be Evil" width="370" height="450" />
+<img src="/images/conference/Lorna1.JPG" alt="Lorna" title="Lorna presenting" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Lorna2.JPG" alt="Google" title="Dont Be Evil" width="370" height="450" class="img-fluid" />
 
 How is the use of digital technology a political act and how are we all implicated? Are we making things better with all this digital work, or just increasing inequalities via digital divides and data control – some hard-hitting food-for-thought for everyone working in digital heritage!
 
-<img src="/images/conference/Lorna3.JPG" alt="Ethics" title="Digital Ethics" width="370" height="450" /> <img src="/images/conference/Lorna4.JPG" alt="Workflow" title="Ethics Workflow" width="370" height="450" />
+<img src="/images/conference/Lorna3.JPG" alt="Ethics" title="Digital Ethics" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Lorna4.JPG" alt="Workflow" title="Ethics Workflow" width="370" height="450" class="img-fluid" />
 
 Lorna presents some possible ways forward for us all to consider – key goals to ‘maximize benefits and minimize harm’! I highly recommend all the #CEEF3D participants to have a look at the [pdf](https://drive.google.com/file/d/1rdEWMfppA1I0aGON-1_Qab1ouCWAspso/view) of Lorna’s presentation for further suggestions on moving forward ethically with digital heritage projects.
 
