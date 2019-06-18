@@ -27,7 +27,7 @@ This project invited makers from around the world to reinvent medieval wooden sc
 
 Next up, we had Liz Pye from the [Institute of Archaeology, UCL](https://www.ucl.ac.uk/archaeology/) presenting on her research into conservation and tactile experiences with cultural objects.
 
-<img src="/images/conference/LizPye.JPG" alt="Liz" title="Liz Pye speaking" width="550" height="550" />
+<img src="/images/conference/LizPye.JPG" alt="Liz" title="Liz Pye speaking" width="450" height="550" class="center" />
 
 She suggested that 'selective touch' and controlled handling of cultural heritage collections can provide important tactile experiences for better understanding of objects. Digital objects & replicas have a role to play in enhancing these experiences too.
 
