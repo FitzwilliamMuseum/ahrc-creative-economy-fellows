@@ -71,7 +71,7 @@ More exciting Cambridge research was presented by Orietta Da Rold ([@orietta_dar
 
 How can we get people to better understand medieval paper through touching & experiencing paper? The variety and types of medieval paper can seem bafflingly to non-experts, but Orietta rightly points out that the modern and medieval interactions with paper are basically the same, but how do we communicate this to audiences? Communicating feeling & knowledge of the different ways it was made and used can enhance research and understanding.
 
-Last presentation for this session, we had Lorna Richardson (@lornarichardson) from [UEA DH](link: )https://www.uea.ac.uk/arts-humanities/digital-humanities) looking at ethics in digital heritage.
+Last presentation for this session, we had Lorna Richardson (@lornarichardson) from [UEA DH](https://www.uea.ac.uk/arts-humanities/digital-humanities) looking at ethics in digital heritage.
 
 <img src="/images/conference/Lorna1.JPG" alt="Lorna" title="Lorna presenting" width="370" height="450" class="img-fluid" /> <img src="/images/conference/Lorna2.JPG" alt="Google" title="Dont Be Evil" width="370" height="450" class="img-fluid" />
 
