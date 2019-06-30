@@ -3,7 +3,7 @@ layout: default
 title: Our team code of conduct
 author: Daniel Pett
 id: code
-permalink: /team-code-of-conduct
+permalink: team-code-of-conduct
 --- 
 **This has been inspired by Whitaker Lab** 
 
