@@ -4,6 +4,7 @@ title: Our team code of conduct
 author: Daniel Pett
 id: code
 permalink: team-code-of-conduct
+author_image: danielpett.jpeg
 --- 
 **This has been inspired by Whitaker Lab** 
 
