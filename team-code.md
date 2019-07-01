@@ -6,11 +6,11 @@ id: code
 permalink: team-code-of-conduct
 author_image: danielpett.jpeg
 --- 
-**This has been inspired by Whitaker Lab** 
+**This has been inspired by [Whitaker Lab's](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md) code of conduct** 
 
 Within our team, all members should be able to participate in an enjoyable and fulfilling experience whilst fulfilling the aims of our grant. Everyone who participates in any project associated with this research team is expected to show respect and courtesy to other  members at all times.
 
-All team members, are dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment by and/or of members of our community in any form.
+All team members are dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment by and/or of members of our community in any form.
 
 We endeavour to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past. Once you become a member of our research community,  we ask all members to conform to the following Code of Conduct.
 
@@ -28,8 +28,12 @@ To report an issue please contact Daniel Pett/ Jo Vine. All communication will b
 
 ## Flexible working hours
 
-The hours that members of the team choose to work is up to them, but should fulfil their contracted time. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no members are required to reply to them outside of their typical work hours.
+The hours that members of the team choose to work is up to them, but should fulfil their contracted time. We are each welcome to send work-related emails, instant messages (via [RocketChat](https://messaging.fitzmuseum.cam.ac.uk) or pull requests over the weekend or late at night, but no members are required to reply to them outside of their typical work hours.
 
 Team members are welcome to work flexibly for any reason. Ideally, all team members will have at least a few hours each week to overlap with Daniel and Jo in order to stay in touch on any challenges or successes, but it is our policy that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
 
 If you experience any challenges related to flexible working within the team please dicuss with Daniel or Jo. All communication will be treated as confidential.
+
+## Authoring
+
+Our team is encouraged to publish on their work, and to collaborate openly using Open Science principles. If we publish multi-author papers, we encourage the principal author to be named first and then alphabetically. We encourage open access publication where ever possible and funding allows. 
