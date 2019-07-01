@@ -30,6 +30,6 @@ To report an issue please contact Daniel Pett/ Jo Vine. All communication will b
 
 The hours that members of the team choose to work is up to them, but should fulfil their contracted time. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no members are required to reply to them outside of their typical work hours.
 
-Team members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Daniel and Joanne in order to stay in touch on any challenges or successes, but it is our policy that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
+Team members are welcome to work flexibly for any reason. Ideally, all team members will have at least a few hours each week to overlap with Daniel and Jo in order to stay in touch on any challenges or successes, but it is our policy that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
 
 If you experience any challenges related to flexible working within the team please dicuss with Daniel or Jo. All communication will be treated as confidential.
