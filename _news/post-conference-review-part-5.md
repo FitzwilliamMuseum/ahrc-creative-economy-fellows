@@ -11,6 +11,7 @@ thumbnail: /images/conference/BreakSlides.jpg
 ---
 
 After a speedy lunch we were back to an intense afternoon session of quick fire talks. 19 talks, 5 minutes a talk: it was a challenge!
+
 Susanne Turner of the [Museum of Classical Archaeology](https://www.museums.cam.ac.uk/museums/museum-classical-archaeology) in Cambridge kicked us off with a live skype tour of the Cast Gallery literally and figuratively walking us through the issues they encounter at the museum with people touching, and breaking, objects and adding graffiti to others. She felt their issues were particular poignant in their collection as it is made up of casts made during the 19th century. Visitors feel they have more of a “Right” to touch as the objects aren’t “originals”. She is worried about introducing any tactile installations in the gallery as she worries it might further confuse visitors as to whether they are allowed to touch or not. It was an excellent paper that ended with the final question of “Do you want to see the foreskin?”
 
 The next two talks were prerecorded presentations from Madeline Robison and Alix Thoeming of University of Sydney. Madeline’s paper considered the 3d imaging and preservation of the mummy of the boy Horus. Her paper was fascinating but did spark some ethical discussion on twitter regarding the imaging of human remains. 
