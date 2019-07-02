@@ -49,7 +49,7 @@ Another highlight of the afternoon was Ian Dawson’s presentation on [Messy Ass
 
 There were two papers exploring digital applications to Egyptian archaeology in the afternoon from Nicky van de Beek and Amanda Ford Spora who considered 3D applications as outreach tools. 
 
-Both Ronald Haynes and Dave Fletcher presented fairly tech-heavy presentations firstly on using technology to disrupt how we view things then as part of an exercise guerilla scanning at the British Museum. 
+Both Ronald Haynes and Dave Fletcher presented fairly tech-heavy presentations firstly on using technology to disrupt how we view things then as part of an exercise guerrilla scanning at the British Museum. 
 
 Fiona McKendrick brought us all back to the issue that while doing all this cool stuff is ace we also need to ensure we are evaluating the success of our endeavors. I would have been interested to see a discussion with Rafie develop over the nature of this evaluation as I think that looking at both quantitative and qualitative data is important. 
 
