@@ -42,7 +42,7 @@ Rafie Cecilia’s presentation was one of the highlights of the day for me. Her 
 
 There was a discussion from George Cooper concerning the potential for creating publications which integrate 3D through a partnership between Routledge and Sketchfab. This would be really useful to see more and as the wonderful [Internet Archaeology](https://twitter.com/IntarchEditor/status/1146028163170013185) has always said online publications have the potential to be “more than just an pdf”. 
 
-<img src="/images/conference/GeorgeCooper.JPG" alt="George Cooper" title="George Cooper on the Routledge/ Sketchfab initative" width="450" height="550" class="img-fluid" />
+<img src="/images/conference/GeorgeCooper.jpg" alt="George Cooper" title="George Cooper on the Routledge/ Sketchfab initative" width="450" height="550" class="img-fluid" />
 
 Another highlight of the afternoon was Ian Dawson’s presentation on [Messy Assemblages](https://epoiesen.library.carleton.ca/2019/03/16/messy-assemblages/), his work using 3D printing to negotiate the physical and digital divide and further as a means to negotiate colonial collections was timely. 
 
