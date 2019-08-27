@@ -13,7 +13,7 @@ author_image: Abi_L.jpeg
 
 Regular readers will know of my love for the awkward moment. I may be a Citizen of the World, but I am also Scottish, so perhaps this accounts for the self-schadenfreude that defines a lot of my interactions. 
 
-New lows (highs?) were reached on my trip to see Steve Colmer, CEO of <a href="https://www.soluis.com/">Soluis Group</a>, a leading AR/VR company, who have their HQ in Glasgow. Not, I hasten to add, because of Steve; Steve is a Charming Man, great craic, and disarmingly chill for someone of his calibre. 
+New lows (highs?) were reached on my trip to see Steve Colmer, Creative Director of <a href="https://www.soluis.com/">Soluis Heritage</a>, a leading AR/VR company, who have their HQ in Glasgow. Not, I hasten to add, because of Steve; Steve is a Charming Man, great craic, and disarmingly chill for someone of his calibre. 
 
 No—for the comedy awkwardness, I blame a dinosaur, or rather two boy dinosaurs and one lady dinosaur. As part of my Knowledge Transfer and Exchange, Steve and I went to check out the ‘T.Rex in Town’ at Kelvinhall. This turned out to be a bizarre game of two halves: belting bones, and completely tonto digital additions. Behind a set of virtual spray-paint cans, nominally to ‘colour in’ a dinosaur but actually a vehicle for bad, Lynx-style puns, we discovered a game. Not just any game though: ‘Can You Seduce A Dinosaur?’ You read that right. It is exactly as creepy as it sounds; imagine David Kronenberg art-directed <em>Just Dance</em> on PS2.
 
