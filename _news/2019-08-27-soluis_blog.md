@@ -27,7 +27,11 @@ Moving on. Monday saw me join Steve and his collaborator, the delightful Graham 
 
 By Tuesday Steve had started introducing me as his stalker, a moniker I enjoy for its intrigue and accuracy. We headed over to Soluis’ sister company, Sublime, to check out the latest outputs for their collab with Glasgow Uni. Glasgow’s digital humanities setup is spectacular, and they’ve been commissioning a load of pioneering teaching content using VR, AR and digital methods.  This is where it got real for me (VR jokes lol) because the project we were seeing was for a class I took about 10 years ago, with the inimitable Dr Johanna Green. This is a VR GUTENBERG’S WORKSHOP, people. I pretended I wasn’t rude for long enough to let JG have a go, then it was my turn and holy smokes friends, it did not disappoint. I don’t want to ruin anything or brag or whatever but honestly it was sick and that’s all I can say about it. 
 
-<img src="/images/objects/Soluis tweet.jpg" class="img-fluid" />
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Honestly y&#39;all undergrads don&#39;t know you&#39;re BORN---- back in our day it was Spec Coll once a degree and we fashioned our own exam script scrolls from rags and the dreams of the nation <a href="https://t.co/kQTi23QQ2M">https://t.co/kQTi23QQ2M</a></p>&mdash; Abi L. Glen (@abilglen) <a href="https://twitter.com/abilglen/status/1156325103988330498?ref_src=twsrc%5Etfw">July 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<!-- <img src="/images/objects/Soluis tweet.jpg" class="img-fluid" /> -->
 
 
 On Wednesday, Steve took me on another field trip: this time to ENd of The Line, a photography exhibition in an abandoned welfare office. This chap John R Hume photgraphed all the gorgeous industrial buildings in Glasgow before they were wrecked to make way for the M8. NGL,made me a bit emotional. 
