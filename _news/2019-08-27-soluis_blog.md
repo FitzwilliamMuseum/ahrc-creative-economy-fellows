@@ -17,7 +17,7 @@ New lows (highs?) were reached on my trip to see Steve Colmer, CEO of <a href="h
 
 No—for the comedy awkwardness, I blame a dinosaur, or rather two boy dinosaurs and one lady dinosaur. As part of my Knowledge Transfer and Exchange, Steve and I went to check out the ‘T.Rex in Town’ at Kelvinhall. This turned out to be a bizarre game of two halves: belting bones, and completely tonto digital additions. Behind a set of virtual spray-paint cans, nominally to ‘colour in’ a dinosaur but actually a vehicle for bad, Lynx-style puns, we discovered a game. Not just any game though: ‘Can You Seduce A Dinosaur?’ You read that right. It is exactly as creepy as it sounds; imagine David Kronenberg art-directed <em>Just Dance</em> on PS2.
 
-![Dinosaur]<img src="/images/objects/trix.jpg" class="img-fluid" />
+<img src="/images/objects/trix.jpg" class="img-fluid" />
 
 Obviously the only thing to do with your new boss for the week is challenge them to virtually seduce a <em>Saurischia</em>. After I nobly forced some children in Fortnite hoodies out the road, we assumed the position. Eerie music played as we copied the moves instructed (squatting, chicken-winging, etc) in an effort to win the hand of Trix, who in my memory was wearing lipstick like the dragon from Shrek. Let the record show that Steve thoroughly thrashed me, a fact that continues to cause us both some degree of turmoil.
 
