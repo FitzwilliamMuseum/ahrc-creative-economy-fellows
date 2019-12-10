@@ -3,7 +3,7 @@ title: Dr Melanie Pitkin
 twitter: '@melanie_misr'
 image: /images/staff/MPitkin.jpg
 institution: The Fitzwilliam Museum
-job-title: Research Fellow - Project 2
+job-title: Research Fellow - Project 1
 layout: team
 ---
 Melanie Pitkin is a Postdoctoral Research Associate for the [Egyptian Coffins
