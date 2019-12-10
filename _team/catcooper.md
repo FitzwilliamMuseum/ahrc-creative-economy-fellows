@@ -3,7 +3,7 @@ title: Dr Catriona Cooper
 twitter: "@CatrionaCooper"
 image: "/images/staff/catcooper.jpg"
 institution: The Fitzwilliam Museum
-job-title: Research Fellow - Project 1
+job-title: Research Fellow - Project 2
 layout: team
 orcid: 0000-0002-3473-7962
 ---
