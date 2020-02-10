@@ -1,5 +1,5 @@
 html {
-  font-size: 16px;
+  font-size: 14px;
 }
 .head {
   background-image: url(../images/layouts/eyes.png);
@@ -18,7 +18,7 @@ footer, .chip-icon {
 
 body {
   background-color: #dcd9d945;
-  font-size: 1.2rem!important;
+  font-size: 1.0rem!important;
 }
 
 video {
