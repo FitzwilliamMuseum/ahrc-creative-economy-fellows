@@ -5,6 +5,7 @@ image: /images/partners/thinksee3d.png
 order: 2
 author: Catriona Cooper
 author_image: catcooper.jpg
+permalink: /projects/project-two
 ---
 The use of 3D modelling and digital replication has been firmly adopted by archaeologists and the heritage sector since Reilly
 first coined the phrase “Virtual Archaeology” in the late 1980s. The use of such models has had significant academic impact

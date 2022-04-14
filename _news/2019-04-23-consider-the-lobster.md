@@ -7,7 +7,7 @@ permalink: /news/consider-the-lobster
 date: 2019-04-23
 updated: 2019-04-23
 tags: [3d, AHRC, lobster, feast, food]
-thumbnail: images/Mr Pinchy.png
+thumbnail: /images/Mr Pinchy.png
 author_image: Abi_L.jpeg
 ---
 

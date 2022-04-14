@@ -5,6 +5,7 @@ image: /images/partners/thinksee3d.png
 order: 1
 author: Melanie Pitkin
 author_image: MPitkin.jpg
+permalink: /projects/project-one
 ---
 The Fitzwilliam Museum has a world-leading reputation for its research on ancient Egyptian coffins. Broadly speaking, this research involves the interdisciplinary examination of the Fitzwilliam Museum’s collection of around 200 ancient Egyptian coffins and coffin fragments through advanced imaging techniques, such as X-radiography and CT scanning, in collaboration with various subject specialists in order to provide new and unprecedented insights into ancient Egyptian coffin construction, the funerary industry and beliefs in the afterlife.
 

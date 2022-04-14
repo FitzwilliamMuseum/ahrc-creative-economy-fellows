@@ -4,7 +4,8 @@ title: Project Four - MIAB Mediterranean
 image: /images/partners/miab.png
 order: 4
 author: Jennifer Wexler
-author_image: jenniferwexler.jpeg
+author_image: jenniferwexler.
+permalink: /projects/project-four
 ---
 For this CEEF project at the Fitzwilliam Museum (Project 4), I am working with Museum in a Box together with curators, education, digital, and other stakeholders at the museum to develop a project with looking at the connections between collections from around the ancient Mediterranean, one of cornerstones of the Fitzwilliam’s collections. The Fitzwilliam Museum, in conjunction with its affiliated Cambridge Museum, is a place of wonder, but how do we make it a place of exploration as well for audiences with little or no background in the heritage sector? Making museum data and collections research both available and palatable to researchers and members of the public is a key challenge that all cultural heritage institutions are increasingly facing. The use of innovative digital tools, especially 3D technology, as part of the Creative Economy Engagement Fellowships gives us an excellent opportunity to look at new and exciting ways to not only tell unknown stories from the collections of the Fitzwilliam Museum but also to feature on-going research and other digital content in a new light. By using innovative 3D technology, such as employed by the creative industry partners ThinkSee3D and Museum in a Box, we have a golden opportunity to create new ways of storytelling around the Fitzwilliam’s collections.
 
