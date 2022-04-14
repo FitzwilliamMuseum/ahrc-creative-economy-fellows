@@ -21,8 +21,6 @@ Jennifer Wexler. Copyright the University of Cambridge unless noted otherwise.
 
 Website by [@portableant](https://github.com/portableant)
 
-CSS framework: http://daemonite.github.io/material/
-
 ## License
 
 CC-BY for code, CC-BY-NC-SA-ND for content (text and images) unless stated
