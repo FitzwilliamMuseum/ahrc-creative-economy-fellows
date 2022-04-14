@@ -16,14 +16,12 @@ team at the Fitzwilliam Museum, Cambridge University.
 
 ## Credits
 
-Content by Abi L Glen, Joanne Vine, Melanie Pitkin, Daniel Pett, Catriona Cooper,
+Website and Content by Abi L Glen, Joanne Vine, Melanie Pitkin, Daniel Pett, Catriona Cooper,
 Jennifer Wexler. Copyright the University of Cambridge unless noted otherwise.
-
-Website by [@portableant](https://github.com/portableant)
 
 ## License
 
-CC-BY for code, CC-BY-NC-SA-ND for content (text and images) unless stated
+GPLV3 for code, CC-BY-NC-SA-ND for content (text and images) unless stated
 otherwise.
 
 ## Contributing guidelines
