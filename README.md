@@ -1,4 +1,5 @@
 # The Creative Economy Engagement  - Fitzwilliam Museum
+[![DOI](https://zenodo.org/badge/170138423.svg)](https://zenodo.org/badge/latestdoi/170138423) [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
 
 ![A screenshot of the site](images/screenshots/screen.png)
 
@@ -10,7 +11,7 @@ team at the Fitzwilliam Museum, Cambridge University.
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows.git ahrc-creative-economy-fellows`
+   `git clone https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows.git`
 * Change to the directory and then run this command in terminal `jekyll serve`
 
 ## Credits
