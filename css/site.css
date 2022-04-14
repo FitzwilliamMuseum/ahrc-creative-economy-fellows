@@ -9,7 +9,7 @@ html {
   padding-top: 8rem;
 }
 footer, .chip-icon {
-  background-color: #731200;
+  background-color: #000;
 }
 
 .bg-black {
@@ -22,7 +22,7 @@ body {
 }
 
 video {
-  
+
   object-fit: cover;
 }
 .share a {
@@ -154,7 +154,7 @@ video {
   color: #fff;
   padding: 10px;
   }}
-  
+
   .max-coffins {
     max-width: 100%;
   }
@@ -162,22 +162,22 @@ video {
     list-style: none;
     margin-left: -40px;
   }
-  
+
   #error {
     object-fit: cover;
     width: 100%;
   }
-  
+
   .coffin  {
     height: 150px;
     width: 150px;
   }
-  
+
   .contact .btn {
     background-color: #731200;
     color: #fff;
   }
-  
+
   label.cm-app-label {
     color: white;
   }
@@ -188,33 +188,33 @@ video {
   * Do note that identation may be butcherd tough
   */
   .gist{
-    
+
     width:100%;
-    
+
     & table{
       table-layout: fixed;
     }
-    
+
     & td.js-line-number{
       // We need an explicit width for the other column to be auto
       width: 50px;
       text-align: center;
     }
-    
+
     & .blob-code-inner {
       white-space: pre-wrap;
       whites-space: wrap;
       word-wrap:break-word;
     }
   }
-  
+
   .news-thumb {
     position: relative;
     width: 150px;
     height: 150px;
     overflow: hidden;
   }
-  
+
   .news-thumb img {
     position: absolute;
     left: 50%;
@@ -225,12 +225,12 @@ video {
     -ms-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
   }
-  
+
   .news-thumb img.portrait {
     width: 100%;
     height: auto;
   }
-  
+
   .row-hack {
     -ms-flex-wrap: wrap;
     display: -ms-flexbox;
@@ -242,7 +242,7 @@ video {
     text-overflow: ellipsis;
     white-space: nowrap;
   }
-  
+
   figcaption.figure-caption {
     font-size: 1.2em;
     margin-top: 10px;
