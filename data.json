@@ -47,7 +47,7 @@
             "thumbnail": "{{site.url}}{{ site.background | xml_escape }}",
             "image":  "{{site.url}}{{ site.background | xml_escape }}"
             {% endif %}
-        }{% unless forloop.last %},{% endunless %}
+        },
     {% endfor %}
     {% for entry in site.projects %}
         "{{ entry.url | slugify }}": {
@@ -63,7 +63,7 @@
             "thumbnail": "{{site.url}}{{ site.background | xml_escape }}",
             "image":  "{{site.url}}{{ site.background | xml_escape }}"
             {% endif %}
-        }{% unless forloop.last %},{% endunless %}
+        },
     {% endfor %}
     {% for entry in site.content %}
         "{{ entry.url | slugify }}": {
