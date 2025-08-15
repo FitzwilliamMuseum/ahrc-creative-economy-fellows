@@ -53,9 +53,6 @@ var klaroConfig = {
             consentModal: {
                 description: 'Here you can see and customize the information that we collect about you. Entries marked as "Example" are just for demonstration purposes and are not really used on this website.',
             },
-            googleAnalytics: {
-                description: 'Collecting of visitor statistics',
-            },
             bootstrap: {
                 description: 'External style sheets for site aesthetics',
             },
@@ -86,50 +83,6 @@ var klaroConfig = {
 
     // This is a list of third-party apps that Klaro will manage for you.
     apps : [
-        {
-            // Each app should have a unique (and short) name.
-            name : 'googleAnalytics',
-
-            // If "default" is set to true, the app will be enabled by default
-            // Overwrites global "default" setting.
-            // We recommend leaving this to "false" for apps that collect
-            // personal information.
-            default: true,
-
-            // The title of you app as listed in the consent modal.
-            title : 'Google Analytics',
-
-            // The purpose(s) of this app. Will be listed on the consent notice.
-            // Do not forget to add translations for all purposes you list here.
-            purposes : ['analytics'],
-            
-            // A list of regex expressions or strings giving the names of
-            // cookies set by this app. If the user withdraws consent for a
-            // given app, Klaro will then automatically delete all matching
-            // cookies.
-            cookies : [/^ga/i],
-
-            // An optional callback function that will be called each time
-            // the consent state for the app changes (true=consented). Passes
-            // the `app` config as the second parameter as well.
-            callback : function(consent, app){
-                // This is an example callback function.
-                console.log("User consent for app "+app.name+": consent="+consent)
-            },
-
-            // If "required" is set to true, Klaro will not allow this app to
-            // be disabled by the user.
-            required : false,
-
-            // If "optOut" is set to true, Klaro will load this app even before
-            // the user gave explicit consent.
-            // We recommend always leaving this "false".
-            optOut : false,
-
-            // If "onlyOnce" is set to true, the app will only be executed
-            // once regardless how often the user toggles it on and off.
-            onlyOnce: true,
-        },
         {
             name : 'bootstrap',
             title : 'Bootstrap CDN',
